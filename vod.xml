@@ -8,7 +8,7 @@
     <url>https://www.themoviedb.org/</url>
     <display-name lang="en">Collateral</display-name>
   </channel>
-  <programme channel="Gladiator.mov" start="20000101173000 +0000" stop="25001231180000 +0000">
+  <programme start="20200101000000" stop="99991231235900" channel="Gladiator.mov">
     <title lang="en">Gladiator</title>
     <desc lang="en">A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.</desc>
     <credits>
