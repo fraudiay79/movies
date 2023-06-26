@@ -459,7 +459,7 @@
   <channel id="Malena.vod">
     <display-name lang="en">Malèna</display-name>
   </channel>
-  <programme start="20230620000000" stop="20230630000000" channel="Gladiator.vod">
+  <programme start="20230620000000"  channel="Gladiator.vod">
     <title lang="en">Gladiator</title>
     <desc lang="en">A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.</desc>
     <credits>
@@ -483,7 +483,7 @@
       <value>8.8/10</value>
     </star-rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="Legion.vod">
+  <programme start="20230620000000"  channel="Legion.vod">
     <title lang="en">Legion</title>
     <desc lang="en">When God loses faith in humankind, he sends his legion of angels to bring on the Apocalypse. Humanity's only hope for survival lies in a group of strangers trapped in an out-of-the-way, desert diner with the Archangel Michael.</desc>
     <credits>
@@ -511,7 +511,7 @@
       <value>3.2/10</value>
     </star-rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="Lord_of_War.vod">
+  <programme start="20230620000000"  channel="Lord_of_War.vod">
     <title lang="en">Lord of War</title>
     <desc lang="en">Yuri Orlov is a globetrotting arms dealer and, through some of the deadliest war zones, he struggles to stay one step ahead of a relentless Interpol agent, his business rivals and even some of his customers who include many of the world's most notorious dictators. Finally, he must also face his own conscience.</desc>
     <credits>
@@ -539,7 +539,7 @@
       <value>6.2/10</value>
     </star-rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="JFK.vod">
+  <programme start="20230620000000"  channel="JFK.vod">
     <title lang="en">JFK</title>
     <desc lang="en">The events surrounding JFK&apos;s assassination are investigated by New Orleans DA Jim Garrison in this all-star docudrama examining one of the great controversies of the 20th Century.</desc>
     <credits>
@@ -564,7 +564,7 @@
       <value>7.2/10</value>
     </star-rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="Hot_Tub_Time_Machine.vod">
+  <programme start="20230620000000"  channel="Hot_Tub_Time_Machine.vod">
     <title lang="en">Hot Tub Time Machine</title>
     <desc lang="en">Four pals are stuck in a rut in adulthood: Adam has just been dumped, Lou is a hopeless party animal, Craig is a henpecked husband, and Jacob does nothing but play video games in his basement. But they get a chance to brighten their future by changing their past after a night of heavy drinking in a ski-resort hot tub results in their waking up in 1986.</desc>
     <credits>
@@ -591,7 +591,7 @@
       <value>6.3/10</value>
     </star-rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="Chicago.vod">
+  <programme start="20230620000000"  channel="Chicago.vod">
     <title lang="en">Chicago</title>
     <desc lang="en">Murderesses Velma Kelly (Catherine Zeta-Jones) (a chanteuse and tease who killed her husband and sister after finding them in bed together) and Roxie Hart (Renée Zellweger) (who killed her boyfriend when she discovered he wasn't going to make her a star) find themselves on death row together and fight for the fame that will keep them from the gallows in 1920s Chicago.</desc>
     <credits>
@@ -614,7 +614,7 @@
       <value>8.1/10</value>
     </star-rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="Tomb_Raider_2.vod">
+  <programme start="20230620000000"  channel="Tomb_Raider_2.vod">
     <title lang="en">Lara Croft Tomb Raider: The Cradle of Life</title>
     <desc lang="en">As the feisty video-game heroine, Angelina Jolie shifts into overdrive in this high-tech, fast-paced sequel. This time around Lara and her ex, a disgraced British agent turned mercenary, set out to retrieve Pandora&apos;s box. An evil scientist wants to use the legendary box to create a biological weapon.</desc>
     <credits>
@@ -641,7 +641,7 @@
       <value>4.3/10</value>
     </star-rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="Gilbert_Grape.vod">
+  <programme start="20230620000000"  channel="Gilbert_Grape.vod">
     <title lang="en">What&apos;s Eating Gilbert Grape</title>
     <desc lang="en">A loner cares for his dysfunctional family, including a mentally disabled brother and their reclusive, obese mother, who has not left the house in seven years.</desc>
     <credits>
@@ -663,7 +663,7 @@
       <value>7.3/10</value>
     </star-rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="Little_Miss_Sunshine.vod">
+  <programme start="20230620000000"  channel="Little_Miss_Sunshine.vod">
     <title lang="en">Little Miss Sunshine</title>
     <desc lang="en">In this uproarious road comedy, parents take their spunky 7-year-old daughter and dysfunctional family from New Mexico to California for a kiddie beauty pageant.</desc>
     <credits>
@@ -688,7 +688,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="The_Full_Monty.vod">
+  <programme start="20230620000000"  channel="The_Full_Monty.vod">
     <title lang="en">The Full Monty</title>
     <desc lang="en">In this delightful, Oscar-nominated comedy, unemployed, out-of-shape English steel workers decide to take up exotic dancing after seeing the success of the Chippendale Dancers. They practice their bumping and grinding and plot to strip down to nothing---all the while trying to summon the courage to face the truth about their individual lives. Robert Carlyle, Tom Wilkinson, Mark Addy.</desc>
     <credits>
@@ -716,7 +716,7 @@
       <value>7.5/10</value>
     </star-rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="Timeline.vod">
+  <programme start="20230620000000"  channel="Timeline.vod">
     <title lang="en">Timeline</title>
     <desc lang="en">Richard Donner directed this thrilling adaptation of Michael Crichton&apos;s novel about a team of modern-day archaeological students trying to rescue their mentor (Billy Connolly) from 14th-century France. Paul Walker, Frances O&apos;Connor, Gerard Butler, David Thewlis, Anna Friel, Neal McDonough, Michael Sheen, Lambert Wilson, Matt Craven, Ethan Embry.</desc>
     <credits>
@@ -737,7 +737,7 @@
       <value>2.8/10</value>
     </star-rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="Maid_in_Manhattan.vod">
+  <programme start="20230620000000"  channel="Maid_in_Manhattan.vod">
     <title lang="en">Maid in Manhattan</title>
     <desc lang="en">Jennifer Lopez and Ralph Fiennes team up for comedy and romance in this charming Cinderella story. Lopez stars as a chambermaid at a posh New York hotel who has a whirlwind affair with a wealthy politician (Fiennes) who thinks she is a socialite. Natasha Richardson, Stanley Tucci, Tyler Posey, Frances Conroy.</desc>
     <credits>
@@ -764,7 +764,7 @@
       <value>4.5/10</value>
     </star-rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="Gone_Girl.vod">
+  <programme start="20230620000000"  channel="Gone_Girl.vod">
     <title lang="en">Gone Girl</title>
     <desc lang="en">In this powerful adaptation of the best-selling novel, a husband becomes a suspect in his wife&apos;s disappearance after she vanishes on their fifth wedding anniversary.</desc>
     <credits>
@@ -790,7 +790,7 @@
       <value>7.9/10</value>
     </star-rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="Daybreakers.vod">
+  <programme start="20230620000000"  channel="Daybreakers.vod">
     <title lang="en">Daybreakers</title>
     <desc lang="en">This provocative and cerebral horror film explores a futuristic world overrun by vampires. As corporations harvest the remaining humans, a renegade vamp helps refugees evade capture.</desc>
     <credits>
@@ -817,7 +817,7 @@
       <value>5.7/10</value>
     </star-rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="Aeon_Flux.vod">
+  <programme start="20230620000000"  channel="Aeon_Flux.vod">
     <title lang="en">Aeon Flux</title>
     <desc lang="en">An action-packed sci-fi thriller about a sexy secret agent who is assigned to bring down the tyrannical ruler of a totalitarian regime in the 25th century.</desc>
     <credits>
@@ -843,7 +843,7 @@
       <value>3.6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="Man_on_Fire.vod">
+  <programme start="20230620000000"  channel="Man_on_Fire.vod">
     <title lang="en">Man on Fire</title>
     <desc lang="en">Bloody revenge saga about a disgraced intelligence agent-turned-bodyguard who becomes a one-man army when the girl he&apos;s protecting is kidnapped.</desc>
     <credits>
@@ -870,7 +870,7 @@
       <value>4.7/10</value>
     </star-rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="The_Saint.vod">
+  <programme start="20230620000000"  channel="The_Saint.vod">
     <title lang="en">The Saint</title>
     <desc lang="en">An ingenious and cynical international thief---who adopts the names of saints as his aliases---feels his professional shell cracking when he steals a secret formula for cold fusion from a beautiful scientist. Val Kilmer and Elisabeth Shue star in this stylish and action-packed thriller based on author Leslie Charteris&apos;s famous spy character. Rade Serbedzija.</desc>
     <credits>
@@ -890,7 +890,7 @@
     <category lang="en">Action &amp; Adventure</category>
     <icon src="https://raw.githubusercontent.com/fraudiay79/movies/main/saint.png" />
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="The_Last_Castle.vod">
+  <programme start="20230620000000"  channel="The_Last_Castle.vod">
     <title lang="en">The Last Castle</title>
     <desc lang="en">Robert Redford gives a commanding performance as Eugene Irwin, a disgraced three-star general who is sentenced to 10 years in a military prison run by a sadistic colonel (James Gandolfini). Irwin eventually becomes fed up with the warden&apos;s barbarism and leads his fellow prisoners in a revolt. Mark Ruffalo, Delroy Lindo.</desc>
     <credits>
@@ -914,7 +914,7 @@
       <value>4.3/10</value>
     </star-rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="Memento.vod">
+  <programme start="20230620000000"  channel="Memento.vod">
     <title lang="en">Memento</title>
     <desc lang="en">A man with short-term memory loss tries to avenge a brutal crime in this mesmerizing and inventive drama, which unfolds in reverse chronological order.</desc>
     <credits>
@@ -936,7 +936,7 @@
       <value>8.1/10</value>
     </star-rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="Signs.vod">
+  <programme start="20230620000000"  channel="Signs.vod">
     <title lang="en">Signs</title>
     <desc lang="en">M. Night Shyamalan wrote this spooky story starring Mel Gibson as Graham Hess, a disillusioned ex-minister who discovers mysterious crop circles on his farm and suspects local vandals. But before long, similar incidents are occurring all over the world---and terror looms on the horizon. Joaquin Phoenix, Cherry Jones, Rory Culkin.</desc>
     <credits>
@@ -962,7 +962,7 @@
       <value>5.9/10</value>
     </star-rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="Gravity.vod">
+  <programme start="20230620000000"  channel="Gravity.vod">
     <title lang="en">Gravity</title>
     <desc lang="en">In this relentlessly tense sci-fi thriller, two astronauts find themselves stranded in space after a disastrous accident destroys their shuttle and wipes out the rest of their crew. Now, tethered to each other miles above Earth, they must work together in order to survive.</desc>
     <credits>
@@ -986,7 +986,7 @@
       <value>9.6/10</value>
     </star-rating>
   </programme>
-    <programme start="20230620000000" stop="20230630000000" channel="Collateral.vod">
+    <programme start="20230620000000"  channel="Collateral.vod">
     <title lang="en">Collateral</title>
     <desc lang="en">Cab driver Max picks up a man who offers him $600 to drive him around. But the promise of easy money sours when Max realizes his fare is an assassin.</desc>
     <credits>
@@ -1011,7 +1011,7 @@
       <value>8.6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="FireflyS01E01.vod">
+  <programme start="20230620000000"  channel="FireflyS01E01.vod">
     <title lang="en">Firefly</title>
     <sub-title lang="en">Serenity</sub-title>
     <desc lang="en">Malcolm Reynolds is a veteran and the captain of Serenity. He and his crew are smuggling goods, but they need to pick up some passengers for extra money. However, not all the passengers are what they seem.</desc>
@@ -1038,7 +1038,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="FireflyS01E02.vod">
+  <programme start="20230620000000"  channel="FireflyS01E02.vod">
     <title lang="en">Firefly</title>
     <sub-title lang="en">The Train Job</sub-title>
     <desc lang="en">The crew of Serenity take on a train heist commissioned by a crime lord. They steal the goods, only to find it is medicine that's desperately needed by the town.</desc>
@@ -1065,7 +1065,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="FireflyS01E03.vod">
+  <programme start="20230620000000"  channel="FireflyS01E03.vod">
     <title lang="en">Firefly</title>
     <sub-title lang="en">Bushwhacked</sub-title>
     <desc lang="en">Serenity is pulled in by a Tohoku-class cruiser while investigating a spaceship that was attacked by Reavers. Simon and River must hide to prevent capture, while something is wrong with the lone survivor of the attacked spaceship.</desc>
@@ -1092,7 +1092,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="FireflyS01E04.vod">
+  <programme start="20230620000000"  channel="FireflyS01E04.vod">
     <title lang="en">Firefly</title>
     <sub-title lang="en">Shindig</sub-title>
     <desc lang="en">Inara attends a formal society dance, only to find Malcolm there as well, attempting to set up a smuggling job. Mal comes to blows with Inara's conceited date and finds himself facing a duel with a renowned swordsman, and only one night to learn how to fence.</desc>
@@ -1119,7 +1119,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="FireflyS01E05.vod">
+  <programme start="20230620000000"  channel="FireflyS01E05.vod">
     <title lang="en">Firefly</title>
     <sub-title lang="en">Safe</sub-title>
     <desc lang="en">Mal must choose which crew members to save when one is gravely wounded and two others are kidnapped. Simon finds an uneasy haven in a remote village, but River's uncanny perceptions jeopardize the Tams' temporary safety.</desc>
@@ -1146,7 +1146,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="FireflyS01E06.vod">
+  <programme start="20230620000000"  channel="FireflyS01E06.vod">
     <title lang="en">Firefly</title>
     <sub-title lang="en">Our Mrs. Reynolds</sub-title>
     <desc lang="en">As an unexpected reward for an unpaid job, Mal finds himself married to a naïve, subservient young woman named Saffron. The crew are amused at his discomfort and Book lectures him on propriety, but things aren't as smoothly straightforward as they thought them to be.</desc>
@@ -1173,7 +1173,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="FireflyS01E07.vod">
+  <programme start="20230620000000"  channel="FireflyS01E07.vod">
     <title lang="en">Firefly</title>
     <sub-title lang="en">Jaynestown</sub-title>
     <desc lang="en">Returning to a planet where he ran into some serious trouble years ago, Jayne discovers that he's become a local folk legend. Mal decides to use this entertaining distraction to complete a job, but some unfinished business may derail his plans.</desc>
@@ -1200,7 +1200,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="FireflyS01E08.vod">
+  <programme start="20230620000000"  channel="FireflyS01E08.vod">
     <title lang="en">Firefly</title>
     <sub-title lang="en">Out of Gas</sub-title>
     <desc lang="en">After Serenity suffers a catastrophe that leaves her crew with only hours of oxygen, flashbacks show how Mal and Zoë acquired Serenity and assembled their motley band.</desc>
@@ -1227,7 +1227,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="FireflyS01E09.vod">
+  <programme start="20230620000000"  channel="FireflyS01E09.vod">
     <title lang="en">Firefly</title>
     <sub-title lang="en">Ariel</sub-title>
     <desc lang="en">Hard up for cash, Serenity takes on a job from Simon: help him get a thorough diagnostic of River in return for the opportunity to loot the vast medical stores of an Alliance hospital on central world Ariel. But River's pursuers are hot on their trail, and they receive some unexpected inside help.</desc>
@@ -1254,7 +1254,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="FireflyS01E10.vod">
+  <programme start="20230620000000"  channel="FireflyS01E10.vod">
     <title lang="en">Firefly</title>
     <sub-title lang="en">War Stories</sub-title>
     <desc lang="en">Angered at Zoë's unshakable war connection to Mal, Wash demands a shot at a field assignment. Unfortunately, crime lord Niska chooses this moment to exact a brutal vengeance for Mal's failure to complete an earlier job.</desc>
@@ -1281,7 +1281,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="FireflyS01E11.vod">
+  <programme start="20230620000000"  channel="FireflyS01E11.vod">
     <title lang="en">Firefly</title>
     <sub-title lang="en">Trash</sub-title>
     <desc lang="en">Mal has to make a tough choice in whether he should trust Saffron when she offers the Serenity crew an opportunity to make a lot of money on a risky job.</desc>
@@ -1308,7 +1308,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="FireflyS01E12.vod">
+  <programme start="20230620000000"  channel="FireflyS01E12.vod">
     <title lang="en">Firefly</title>
     <sub-title lang="en">The Message</sub-title>
     <desc lang="en">What starts out as a nice day at a space station goes very wrong when Mal and Zoe receive the corpse of their old war buddy in the mail.</desc>
@@ -1335,7 +1335,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="FireflyS01E13.vod">
+  <programme start="20230620000000"  channel="FireflyS01E13.vod">
     <title lang="en">Firefly</title>
     <sub-title lang="en">Heart of Gold</sub-title>
     <desc lang="en">The Serenity goes to the moon of Deadwood to answer a distress call from Inara’s old friend who runs a brothel.</desc>
@@ -1362,7 +1362,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="FireflyS01E14.vod">
+  <programme start="20230620000000"  channel="FireflyS01E14.vod">
     <title lang="en">Firefly</title>
     <sub-title lang="en">Objects in Space</sub-title>
     <desc lang="en">Serenity encounters a ruthlessly professional bounty hunter, Jubal Early, who will stop at nothing to retrieve River. But River, feeling unwelcome on the ship, takes a novel approach to escaping from the long arm of the Alliance.</desc>
@@ -1389,7 +1389,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="TabooS01E01.vod">
+  <programme start="20230620000000"  channel="TabooS01E01.vod">
     <title lang="en">Taboo</title>
     <sub-title lang="en">Episode 1</sub-title>
     <desc lang="en">James Delaney returns to 1814 London after 10 years in Africa to claim a mysterious legacy left to him by his father.</desc>
@@ -1410,7 +1410,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="TabooS01E02.vod">
+  <programme start="20230620000000"  channel="TabooS01E02.vod">
     <title lang="en">Taboo</title>
     <sub-title lang="en">Episode 2</sub-title>
     <desc lang="en">As James Delaney assembles his league of the damned, an unexpected arrival threatens to disrupt his plans.</desc>
@@ -1431,7 +1431,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="TabooS01E03.vod">
+  <programme start="20230620000000"  channel="TabooS01E03.vod">
     <title lang="en">Taboo</title>
     <sub-title lang="en">Episode 3</sub-title>
     <desc lang="en">James Delaney decides to take radical action in order to safeguard himself from those intent on his demise.</desc>
@@ -1452,7 +1452,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="TabooS01E04.vod">
+  <programme start="20230620000000"  channel="TabooS01E04.vod">
     <title lang="en">Taboo</title>
     <sub-title lang="en">Episode 4</sub-title>
     <desc lang="en">Blacklisted, James Delaney sets out to protect his business by any means necessary.</desc>
@@ -1473,7 +1473,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="TabooS01E05.vod">
+  <programme start="20230620000000"  channel="TabooS01E05.vod">
     <title lang="en">Taboo</title>
     <sub-title lang="en">Episode 5</sub-title>
     <desc lang="en">James Delaney is blackmailed into a dangerous mission, whilst animosity between the Crown and Company escalates to a new level.</desc>
@@ -1494,7 +1494,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="TabooS01E06.vod">
+  <programme start="20230620000000"  channel="TabooS01E06.vod">
     <title lang="en">Taboo</title>
     <sub-title lang="en">Episode 6</sub-title>
     <desc lang="en">The East India Company declares war on James Delaney, whilst a family revelation drives him into dark and haunted places.</desc>
@@ -1515,7 +1515,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="TabooS01E07.vod">
+  <programme start="20230620000000"  channel="TabooS01E07.vod">
     <title lang="en">Taboo</title>
     <sub-title lang="en">Episode 7</sub-title>
     <desc lang="en">A devastating betrayal puts James Delaney’s freedom in jeopardy, handing his enemies the opportunity they've been longing for.</desc>
@@ -1536,7 +1536,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="TabooS01E08.vod">
+  <programme start="20230620000000"  channel="TabooS01E08.vod">
     <title lang="en">Taboo</title>
     <sub-title lang="en">Episode 8</sub-title>
     <desc lang="en">As James Delaney conspires to escape, an enraged Prince Regent unleashes one final plan to destroy him.</desc>
@@ -1557,7 +1557,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="SherlockS01E01.vod">
+  <programme start="20230620000000"  channel="SherlockS01E01.vod">
     <title lang="en">Sherlock</title>
     <sub-title lang="en">A Study in Pink</sub-title>
     <desc lang="en">A war hero, invalided home from Afghanistan, meets a strange but charismatic genius who is looking for a flatmate; it is London, 2010, and Dr Watson and Sherlock Holmes are meeting for the first time. A string of impossible suicides has Scotland Yard baffled - and only one man can help.</desc>
@@ -1578,7 +1578,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="SherlockS01E02.vod">
+  <programme start="20230620000000"  channel="SherlockS01E02.vod">
     <title lang="en">Sherlock</title>
     <sub-title lang="en">The Blind Banker</sub-title>
     <desc lang="en">A mysterious cipher is being scrawled on the walls around London. The first person to see the cipher is dead within hours of reading it. Sherlock plunges into a world of codes and symbols, consulting with London's best graffiti artists. He soon learns that the city is in the grip a gang of international smugglers, a secret society called the Black Lotus.</desc>
@@ -1599,7 +1599,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="SherlockS01E03.vod">
+  <programme start="20230620000000"  channel="SherlockS01E03.vod">
     <title lang="en">Sherlock</title>
     <sub-title lang="en">The Great Game</sub-title>
     <desc lang="en">A strange clue in an empty room, a blood-soaked car, a priceless Old Master, a deranged bomber. With the clock ticking, the curtain rises on a battle of wits between Sherlock, John and the shadowy stranger who seems to know all the answers...</desc>
@@ -1620,7 +1620,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="SherlockS02E01.vod">
+  <programme start="20230620000000"  channel="SherlockS02E01.vod">
     <title lang="en">Sherlock</title>
     <sub-title lang="en">A Scandal in Belgravia</sub-title>
     <desc lang="en">Blackmail threatens the monarchy and Sherlock is about to meet the woman who beats him.</desc>
@@ -1641,7 +1641,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="SherlockS02E02.vod">
+  <programme start="20230620000000"  channel="SherlockS02E02.vod">
     <title lang="en">Sherlock</title>
     <sub-title lang="en">The Hounds of Baskerville</sub-title>
     <desc lang="en">A hound from hell. Sherlock's most famous case. But is a monster really stalking Dartmoor?</desc>
@@ -1662,7 +1662,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="SherlockS02E03.vod">
+  <programme start="20230620000000"  channel="SherlockS02E03.vod">
     <title lang="en">Sherlock</title>
     <sub-title lang="en">The Reichenbach Fall</sub-title>
     <desc lang="en">The return of Moriarty. The crime of the century. Can Sherlock possibly survive?</desc>
@@ -1683,7 +1683,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="SherlockS03E01.vod">
+  <programme start="20230620000000"  channel="SherlockS03E01.vod">
     <title lang="en">Sherlock</title>
     <sub-title lang="en">The Empty Hearse</sub-title>
     <desc lang="en">Two years on from reports of his Reichenbach Fall demise, Sherlock resurfaces as London comes under threat of a huge terrorist attack. John, though, has mixed feelings – he's delighted by the return of his best friend, but harbours worries that the consulting detective's reappearance will have an adverse affect on his settled domestic life, in particular his romance with Mary Morstan.</desc>
@@ -1704,7 +1704,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="SherlockS03E02.vod">
+  <programme start="20230620000000"  channel="SherlockS03E02.vod">
     <title lang="en">Sherlock</title>
     <sub-title lang="en">The Sign of Three</sub-title>
     <desc lang="en">Sherlock faces his biggest challenge of all – delivering a Best Man’s speech on John’s wedding day! But all isn’t quite as it seems. Mortal danger stalks the reception – and someone might not make it to the happy couple’s first dance. Sherlock must thank the bridesmaids, solve the case and stop a killer.</desc>
@@ -1725,7 +1725,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="SherlockS03E03.vod">
+  <programme start="20230620000000"  channel="SherlockS03E03.vod">
     <title lang="en">Sherlock</title>
     <sub-title lang="en">His Last Vow</sub-title>
     <desc lang="en">A case of stolen letters leads Sherlock Holmes into a long conflict with Charles Augustus Magnussen, the Napoleon of blackmail, and the one man he truly hates. But how do you tackle a foe who knows the personal weakness of every person of importance in the Western world?</desc>
@@ -1746,7 +1746,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="SherlockS03E04.vod">
+  <programme start="20230620000000"  channel="SherlockS03E04.vod">
     <title lang="en">Sherlock</title>
     <sub-title lang="en">The Abominable Bride</sub-title>
     <desc lang="en">Sherlock Holmes and Doctor Watson investigate a mysterious ghostly bride who appears to have committed murder from beyond the grave.</desc>
@@ -1767,7 +1767,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="SherlockS04E01.vod">
+  <programme start="20230620000000"  channel="SherlockS04E01.vod">
     <title lang="en">Sherlock</title>
     <sub-title lang="en">The Six Thatchers</sub-title>
     <desc lang="en">Why is someone destroying images of Margaret Thatcher? Is there a madman on the loose? Or is there a much darker purpose at work?</desc>
@@ -1788,7 +1788,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="SherlockS04E02.vod">
+  <programme start="20230620000000"  channel="SherlockS04E02.vod">
     <title lang="en">Sherlock</title>
     <sub-title lang="en">The Lying Detective</sub-title>
     <desc lang="en">Sherlock faces perhaps the most chilling enemy of his long career: the powerful and seemingly unassailable Culverton Smith – a man with a very dark secret indeed.</desc>
@@ -1809,7 +1809,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="SherlockS04E03.vod">
+  <programme start="20230620000000"  channel="SherlockS04E03.vod">
     <title lang="en">Sherlock</title>
     <sub-title lang="en">The Final Problem</sub-title>
     <desc lang="en">Holmes and Watson travel to Europe to escape Moriarty's vengeance.</desc>
@@ -1830,7 +1830,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS01E01.vod">
+  <programme start="20230620000000"  channel="GoTS01E01.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">Winter is Coming</sub-title>
     <desc lang="en">Jon Arryn, the Hand of the King, is dead. King Robert Baratheon plans to ask his oldest friend, Eddard Stark, to take Jon's place. Across the sea, Viserys Targaryen plans to wed his sister to a nomadic warlord in exchange for an army.</desc>
@@ -1856,7 +1856,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS01E02.vod">
+  <programme start="20230620000000"  channel="GoTS01E02.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">The Kingsroad</sub-title>
     <desc lang="en">While Bran recovers from his fall, Ned takes only his daughters to Kings Landing. Jon Snow goes with his uncle Benjen to The Wall. Tyrion joins them.</desc>
@@ -1882,7 +1882,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS01E03.vod">
+  <programme start="20230620000000"  channel="GoTS01E03.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">Lord Snow</sub-title>
     <desc lang="en">Lord Stark and his daughters arrive at King's Landing to discover the intrigues of the king's realm.</desc>
@@ -1908,7 +1908,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS01E04.vod">
+  <programme start="20230620000000"  channel="GoTS01E04.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">Cripples, Bastards, and Broken Things</sub-title>
     <desc lang="en">Eddard investigates Jon Arryn's murder. Jon befriends Samwell Tarly, a coward who has come to join the Night's Watch.</desc>
@@ -1933,7 +1933,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS01E05.vod">
+  <programme start="20230620000000"  channel="GoTS01E05.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">The Wolf and the Lion</sub-title>
     <desc lang="en">Catelyn has captured Tyrion and plans to bring him to her sister, Lysa Arryn, at The Vale, to be tried for his, supposed, crimes against Bran. Robert plans to have Daenerys killed, but Eddard refuses to be a part of it and quits.</desc>
@@ -1959,7 +1959,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS01E06.vod">
+  <programme start="20230620000000"  channel="GoTS01E06.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">A Golden Crown</sub-title>
     <desc lang="en">While recovering from his battle with Jamie, Eddard is forced to run the kingdom while Robert goes hunting. Tyrion demands a trial by combat for his freedom. Viserys is losing his patience with Drogo.</desc>
@@ -1985,7 +1985,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS01E07.vod">
+  <programme start="20230620000000"  channel="GoTS01E07.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">You Win or You Die</sub-title>
     <desc lang="en">Robert has been injured while hunting and is dying. Jon and the others finally take their vows to the Night's Watch. A man, sent by Robert, is captured for trying to poison Daenerys. Furious, Drogo vows to attack the Seven Kingdoms.</desc>
@@ -2011,7 +2011,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS01E08.vod">
+  <programme start="20230620000000"  channel="GoTS01E08.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">The Pointy End</sub-title>
     <desc lang="en">Eddard and his men are betrayed and captured by the Lannisters. When word reaches Robb, he plans to go to war to rescue them. The White Walkers attack The Wall. Tyrion returns to his father with some new friends.</desc>
@@ -2036,7 +2036,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS01E09.vod">
+  <programme start="20230620000000"  channel="GoTS01E09.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">Baelor</sub-title>
     <desc lang="en">Robb goes to war against the Lannisters. Jon finds himself struggling on deciding if his place is with Robb or the Night's Watch. Drogo has fallen ill from a fresh battle wound. Daenerys is desperate to save him.</desc>
@@ -2062,7 +2062,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS01E10.vod">
+  <programme start="20230620000000"  channel="GoTS01E10.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">Fire and Blood</sub-title>
     <desc lang="en">With Ned dead, Robb vows to get revenge on the Lannisters. Jon must officially decide if his place is with Robb or the Night's Watch. Daenerys says her final goodbye to Drogo.</desc>
@@ -2088,7 +2088,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS02E01.vod">
+  <programme start="20230620000000"  channel="GoTS02E01.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">The North Remembers</sub-title>
     <desc lang="en">As Robb Stark and his northern army continue the war against the Lannisters, Tyrion arrives in King’s Landing to counsel Joffrey and temper the young king’s excesses. On the island of Dragonstone, Stannis Baratheon plots an invasion to claim his late brother’s throne, allying himself with the fiery Melisandre, a strange priestess of a stranger god. Across the sea, Daenerys, her three young dragons, and the khalasar trek through the Red Waste in search of allies, or water. In the North, Bran presides over a threadbare Winterfell, while beyond the Wall, Jon Snow and the Night’s Watch must shelter with a devious wildling.</desc>
@@ -2114,7 +2114,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS02E02.vod">
+  <programme start="20230620000000"  channel="GoTS02E02.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">The Night Lands</sub-title>
     <desc lang="en">In the wake of a bloody purge in the capital, Tyrion chastens Cersei for alienating the king’s subjects. On the road north, Arya shares a secret with Gendry, a Night’s Watch recruit. With supplies dwindling, one of Dany’s scouts returns with news of their position. After nine years as a Stark ward, Theon Greyjoy reunites with his father Balon, who wants to restore the ancient Kingdom of the Iron Islands. Davos enlists Salladhor Saan, a pirate, to join forces with Stannis and Melisandre for a naval invasion of King’s Landing.</desc>
@@ -2140,7 +2140,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS02E03.vod">
+  <programme start="20230620000000"  channel="GoTS02E03.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">What is Dead May Never Die</sub-title>
     <desc lang="en">At the Red Keep, Tyrion plots three alliances through the promise of marriage. Catelyn arrives in the Stormlands to forge an alliance of her own, but King Renly, his new wife Margaery, and her brother Loras Tyrell have other plans. At Winterfell, Luwin tries to decipher Bran’s dreams.</desc>
@@ -2165,7 +2165,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS02E04.vod">
+  <programme start="20230620000000"  channel="GoTS02E04.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">Garden of Bones</sub-title>
     <desc lang="en">Joffrey punishes Sansa for Robb’s victories, and Tyrion scrambles to temper the king’s cruelty. Catelyn entreats Stannis and Renly to unite against the Lannisters. Dany and her khalasar arrive at the prosperous city of Qarth. Tyrion coerces a relative into being his eyes and ears. Arya and Gendry are taken to Harrenhal, where their lives are in the hands of Ser Gregor Clegane. Stannis orders Davos to smuggle Melisandre into a secret cove.</desc>
@@ -2190,7 +2190,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS02E05.vod">
+  <programme start="20230620000000"  channel="GoTS02E05.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">The Ghost of Harrenhal</sub-title>
     <desc lang="en">The Baratheon rivalry ends, driving Catelyn to flee and Littlefinger to act. At King’s Landing, Tyrion’s source alerts him to Joffrey’s defense plan - and a mysterious secret weapon. Theon sails to the Stony Shore to prove he’s worthy to be called Ironborn. At Harrenhal, Arya receives a promise from Jaqen H’ghar, one of the prisoners she saved from the Gold Cloaks. The Night’s Watch arrive at the Fist of the First Men, an ancient ringfort where they hope to stem the wildings' advance.</desc>
@@ -2216,7 +2216,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS02E06.vod">
+  <programme start="20230620000000"  channel="GoTS02E06.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">The Old Gods and the New</sub-title>
     <desc lang="en">Theon seizes control of Winterfell. Jon captures a wildling, named Ygritte and is given a chance to prove himself. At King's Landing, after the Lannisters send Myrcella off to be married, the people begin to turn against King Joffrey. Arya comes face to face with a surprise visitor. Daenerys looks to buy ships to sail for the Seven Kingdoms.</desc>
@@ -2241,7 +2241,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS02E07.vod">
+  <programme start="20230620000000"  channel="GoTS02E07.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">A Man Without Honor</sub-title>
     <desc lang="en">Jamie meets a distant relative. Daenerys receives an invitation to the House of the Undying. Theon leads a search party. Jon loses his way in the wilderness. Cersei counsels Sansa.</desc>
@@ -2267,7 +2267,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS02E08.vod">
+  <programme start="20230620000000"  channel="GoTS02E08.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">The Prince of Winterfell</sub-title>
     <desc lang="en">Betrayal befalls Robb. Jon and Qhorin are taken prisoner by the wildlings. Theon receives a visitor at Winterfell and must make an important decision. Meanwhile, Stannis is just days away from reaching King's Landing and Tyrion prepares for his arrival. At Harrenhal, Arya, Gendry and Hot Pie plan their escape.</desc>
@@ -2293,7 +2293,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS02E09.vod">
+  <programme start="20230620000000"  channel="GoTS02E09.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">Blackwater</sub-title>
     <desc lang="en">Tyrion and the Lannisters fight for their lives as Stannis’ fleet assaults King’s Landing.</desc>
@@ -2318,7 +2318,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS02E10.vod">
+  <programme start="20230620000000"  channel="GoTS02E10.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">Valar Morghulis</sub-title>
     <desc lang="en">Tyrion awakens to a changed situation. King Joffrey doles out rewards to his subjects. As Theon stirs his men to action, Luwin offers some final advice. Brienne silences Jaime. Arya receives a gift from Jaqen. Dany goes to a strange place. Jon proves himself to Qhorin.</desc>
@@ -2344,7 +2344,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS03E01.vod">
+  <programme start="20230620000000"  channel="GoTS03E01.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">Valar Dohaeris</sub-title>
     <desc lang="en">Jon meets the King-Beyond-the-Wall while his Night Watch Brothers flee south. In King's Landing, Tyrion wants a reward, Margaery shows her charitable nature, Cersei arranges a dinner party, and Littlefinger offers to help Sansa. Across the Narrow Sea, Daenerys starts her journey west.</desc>
@@ -2370,7 +2370,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS03E02.vod">
+  <programme start="20230620000000"  channel="GoTS03E02.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">Dark Wings, Dark Words</sub-title>
     <desc lang="en">Sansa says too much. Shae asks Tyrion for a favor. Jaime finds a way to pass the time, while Arya encounters the Brotherhood Without Banners.</desc>
@@ -2395,7 +2395,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS03E03.vod">
+  <programme start="20230620000000"  channel="GoTS03E03.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">Walk of Punishment</sub-title>
     <desc lang="en">Tyrion shoulders new responsibilities. Jon is taken to the Fist of the First Men. Daenerys meets with the slavers. Jaime strikes a deal with his captors.</desc>
@@ -2421,7 +2421,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS03E04.vod">
+  <programme start="20230620000000"  channel="GoTS03E04.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">And Now His Watch Is Ended</sub-title>
     <desc lang="en">Trouble brews among the Night's Watch at Craster's. Margaery takes Joffrey out of his comfort zone. Arya meets the leader of the Brotherhood. Varys plots revenge on an old foe. Theon mournfully recalls his missteps. Daenerys deftly orchestrates her exit from Astapor.</desc>
@@ -2447,7 +2447,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS03E05.vod">
+  <programme start="20230620000000"  channel="GoTS03E05.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">Kissed by Fire</sub-title>
     <desc lang="en">The Hound is judged by the gods. Jaime is judged by men. Jon proves himself. Robb is betrayed. Tyrion learns the cost of weddings.</desc>
@@ -2472,7 +2472,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS03E06.vod">
+  <programme start="20230620000000"  channel="GoTS03E06.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">The Climb</sub-title>
     <desc lang="en">Tywin plans strategic unions for the Lannisters. Melisandre pays a visit to the Riverlands. Robb weighs a compromise to repair his alliance with House Frey. Roose Bolton decides what to do with Jaime Lannister. Jon, Ygritte, and the Wildlings face a daunting climb.</desc>
@@ -2498,7 +2498,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS03E07.vod">
+  <programme start="20230620000000"  channel="GoTS03E07.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">The Bear and the Maiden Fair</sub-title>
     <desc lang="en">Daenerys exchanges gifts with a slave lord outside of Yunkai. As Sansa frets about her prospects, Shae chafes at Tyrion’s new situation. Tywin counsels the king, and Melisandre reveals a secret to Gendry. Brienne faces a formidable foe in Harrenhal.</desc>
@@ -2523,7 +2523,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS03E08.vod">
+  <programme start="20230620000000"  channel="GoTS03E08.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">Second Sons</sub-title>
     <desc lang="en">King’s Landing hosts a wedding, and Tyrion and Sansa spend the night together. Daenerys tries to persuade the Second Sons to join her against Yunkai. Stannis releases Davos from the dungeons. Sam and Gilly meet an older gentleman.</desc>
@@ -2549,7 +2549,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS03E09.vod">
+  <programme start="20230620000000"  channel="GoTS03E09.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">The Rains of Castamere</sub-title>
     <desc lang="en">Robb presents himself to Walder Frey, and Edmure meets his bride. Jon faces his harshest test yet. Bran discovers a new gift. Daario and Jorah debate how to take Yunkai. House Frey joins with House Tully.</desc>
@@ -2575,7 +2575,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS03E10.vod">
+  <programme start="20230620000000"  channel="GoTS03E10.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">Mhysa</sub-title>
     <desc lang="en">Bran and company travel beyond the Wall. Sam returns to Castle Black. Jon says goodbye to Ygritte. Jaime returns to King's Landing. The Night's Watch asks for help from Stannis. Daenerys waits to see if she is a conqueror or a liberator.</desc>
@@ -2601,7 +2601,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS04E01.vod">
+  <programme start="20230620000000"  channel="GoTS04E01.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">Two Swords</sub-title>
     <desc lang="en">Tyrion welcomes a guest to King’s Landing. At Castle Black, Jon Snow finds himself unwelcome. Dany is pointed to Meereen, the mother of all slave cities. Arya runs into an old friend.</desc>
@@ -2627,7 +2627,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS04E02.vod">
+  <programme start="20230620000000"  channel="GoTS04E02.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">The Lion and the Rose</sub-title>
     <desc lang="en">Tyrion lends Jaime a hand. Joffrey and Margaery host a breakfast. At Dragonstone, Stannis loses patience with Davos. Ramsay finds a purpose for his pet. North of the Wall, Bran sees where they must go.</desc>
@@ -2652,7 +2652,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS04E03.vod">
+  <programme start="20230620000000"  channel="GoTS04E03.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">Breaker of Chains</sub-title>
     <desc lang="en">Tyrion ponders his options. Tywin extends an olive branch. Sam realizes Castle Black isn’t safe, and Jon proposes a bold plan. The Hound teaches Arya the way things are. Dany chooses her champion.</desc>
@@ -2678,7 +2678,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS04E04.vod">
+  <programme start="20230620000000"  channel="GoTS04E04.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">Oathkeeper</sub-title>
     <desc lang="en">Dany balances justice and mercy. Jaime tasks Brienne with his honor. Jon secures volunteers while Bran, Jojen, Meera and Hodor stumble on shelter.</desc>
@@ -2703,7 +2703,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS04E05.vod">
+  <programme start="20230620000000"  channel="GoTS04E05.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">First of His Name</sub-title>
     <desc lang="en">After Tommen is crowned the King of the Seven Kingdoms, Cersei and Tywin plan the Crown's next move. Meanwhile, Dany weighs her future plans regarding Westeros and Slaver's Bay. Sansa and Lord Baelish arrive at the Eyrie and Jon Snow along with men from the Night's Watch attacks Craster's Keep.</desc>
@@ -2729,7 +2729,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS04E06.vod">
+  <programme start="20230620000000"  channel="GoTS04E06.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">The Laws of Gods and Men</sub-title>
     <desc lang="en">Stannis makes a deal with the Iron Bank of Braavos. Yara and her troops storm the Dreadfort to free Theon. Meanwhile, Daenerys meets Hizdar zo Loraq and her other supplicants. And the day of Tyrion's trial has come where Tyrion faces his father.</desc>
@@ -2754,7 +2754,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS04E07.vod">
+  <programme start="20230620000000"  channel="GoTS04E07.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">Mockingbird</sub-title>
     <desc lang="en">Tyrion gains an unlikely ally; Daario asks Dany to allow him to do what he does best; Jon's warnings about the vulnerability of the Wall are ignored; Brienne follows a new lead.</desc>
@@ -2780,7 +2780,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS04E08.vod">
+  <programme start="20230620000000"  channel="GoTS04E08.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">The Mountain and the Viper</sub-title>
     <desc lang="en">Unexpected visitors arrive in Mole's Town. With assistance from Theon, Ramsay proves himself to his father, Lord Bolton. Littlefinger's motives are questioned when Sansa reveals the fate of Lysa Arryn to other lords of the Vale. Daenerys finds out a secret about Jorah Mormont. Tyrion's fate is decided.</desc>
@@ -2806,7 +2806,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS04E09.vod">
+  <programme start="20230620000000"  channel="GoTS04E09.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">The Watchers on the Wall</sub-title>
     <desc lang="en">Jon Snow and the Night's Watch face a big challenge.</desc>
@@ -2832,7 +2832,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS04E10.vod">
+  <programme start="20230620000000"  channel="GoTS04E10.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">The Children</sub-title>
     <desc lang="en">Circumstances change after an unexpected arrival from north of the Wall. Dany must face harsh realities. Bran learns more about his destiny. Tyrion sees the truth about his situation.</desc>
@@ -2858,7 +2858,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS05E01.vod">
+  <programme start="20230620000000"  channel="GoTS05E01.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">The Wars to Come</sub-title>
     <desc lang="en">Cersei and Jaime adjust to a world without Tywin. Varys reveals a conspiracy to Tyrion. Dany faces a new threat to her rule. Jon is caught between two kings.</desc>
@@ -2884,7 +2884,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS05E02.vod">
+  <programme start="20230620000000"  channel="GoTS05E02.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">The House of Black and White</sub-title>
     <desc lang="en">Arya arrives in Braavos. Podrick and Brienne run into trouble on the road. Cersei fears for her daughter's safety in Dorne as Ellaria Sand seeks revenge for Oberyn's death. Stannis tempts Jon. An adviser tempts Daenerys.</desc>
@@ -2910,7 +2910,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS05E03.vod">
+  <programme start="20230620000000"  channel="GoTS05E03.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">High Sparrow</sub-title>
     <desc lang="en">In Braavos, Arya sees the Many-Faced God. In King's Landing, Queen Margaery enjoys her new husband. Tyrion and Varys walk the Long Bridge of Volantis.</desc>
@@ -2936,7 +2936,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS05E04.vod">
+  <programme start="20230620000000"  channel="GoTS05E04.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">Sons of the Harpy</sub-title>
     <desc lang="en">The Faith Militant grow increasingly aggressive. Jaime and Bronn head south. Ellaria and the Sand Snakes vow vengeance.</desc>
@@ -2961,7 +2961,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS05E05.vod">
+  <programme start="20230620000000"  channel="GoTS05E05.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">Kill the Boy</sub-title>
     <desc lang="en">Dany makes a difficult decision in Meereen. Jon recruits the help of an unexpected ally. Brienne searches for Sansa. Theon remains under Ramsay's control.</desc>
@@ -2986,7 +2986,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS05E06.vod">
+  <programme start="20230620000000"  channel="GoTS05E06.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">Unbowed, Unbent, Unbroken</sub-title>
     <desc lang="en">Arya trains. Jorah and Tyrion run into slavers. Trystane and Myrcella make plans. Jaime and Bronn reach their destination. The Sand Snakes attack.</desc>
@@ -3011,7 +3011,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS05E07.vod">
+  <programme start="20230620000000"  channel="GoTS05E07.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">The Gift</sub-title>
     <desc lang="en">Jon prepares for conflict. Sansa tries to talk to Theon. Brienne waits for a sign. Stannis remains stubborn. Jaime attempts to reconnect with family.</desc>
@@ -3037,7 +3037,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS05E08.vod">
+  <programme start="20230620000000"  channel="GoTS05E08.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">Hardhome</sub-title>
     <desc lang="en">Arya makes progress in her training. Sansa confronts an old friend. Cersei struggles. Jon travels.</desc>
@@ -3063,7 +3063,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS05E09.vod">
+  <programme start="20230620000000"  channel="GoTS05E09.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">The Dance of Dragons</sub-title>
     <desc lang="en">Stannis confronts a troubling decision. Jon returns to The Wall. Mace visits the Iron Bank. Arya encounters someone from her past. Dany reluctantly oversees a traditional celebration of athleticism.</desc>
@@ -3089,7 +3089,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS05E10.vod">
+  <programme start="20230620000000"  channel="GoTS05E10.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">Mother's Mercy</sub-title>
     <desc lang="en">Stannis marches. Dany is surrounded by strangers. Cersei seeks forgiveness. Jon is challenged.</desc>
@@ -3115,7 +3115,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS06E01.vod">
+  <programme start="20230620000000"  channel="GoTS06E01.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">The Red Woman</sub-title>
     <desc lang="en">The fate of Jon Snow is revealed. Daenerys meets a strong man. Cersei sees her daughter once again.</desc>
@@ -3141,7 +3141,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS06E02.vod">
+  <programme start="20230620000000"  channel="GoTS06E02.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">Home</sub-title>
     <desc lang="en">Bran trains with the Three-Eyed Raven. In King’s Landing, Jaime advises Tommen. Tyrion demands good news, but has to make his own. At Castle Black, the Night’s Watch stands behind Thorne. Ramsay Bolton proposes a plan, and Balon Greyjoy entertains other proposals.</desc>
@@ -3166,7 +3166,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS06E03.vod">
+  <programme start="20230620000000"  channel="GoTS06E03.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">Oathbreaker</sub-title>
     <desc lang="en">Daenerys meets her future. Bran meets the past. Tommen confronts the High Sparrow. Arya trains to be No One. Varys finds an answer. Ramsay gets a gift.</desc>
@@ -3192,7 +3192,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS06E04.vod">
+  <programme start="20230620000000"  channel="GoTS06E04.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">Book of the Stranger</sub-title>
     <desc lang="en">Tyrion strikes a deal. Jorah and Daario undertake a difficult task. Jaime and Cersei try to improve their situation.</desc>
@@ -3218,7 +3218,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS06E05.vod">
+  <programme start="20230620000000"  channel="GoTS06E05.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">The Door</sub-title>
     <desc lang="en">Tyrion seeks a strange ally. Bran learns a great deal. Brienne goes on a mission. Arya is given a chance to prove herself.</desc>
@@ -3244,7 +3244,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS06E06.vod">
+  <programme start="20230620000000"  channel="GoTS06E06.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">Blood of My Blood</sub-title>
     <desc lang="en">An old foe comes back into the picture. Gilly meets Sam’s family. Arya faces a difficult choice. Jaime faces off against the High Sparrow.</desc>
@@ -3269,7 +3269,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS06E07.vod">
+  <programme start="20230620000000"  channel="GoTS06E07.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">The Broken Man</sub-title>
     <desc lang="en">The High Sparrow eyes another target. Jaime confronts a hero. Arya makes a plan. The North is reminded.</desc>
@@ -3294,7 +3294,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS06E08.vod">
+  <programme start="20230620000000"  channel="GoTS06E08.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">No One</sub-title>
     <desc lang="en">While Jaime weighs his options, Cersei answers a request. Tyrion's plans bear fruit. Arya faces a new test.</desc>
@@ -3320,7 +3320,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS06E09.vod">
+  <programme start="20230620000000"  channel="GoTS06E09.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">Battle of the Bastards</sub-title>
     <desc lang="en">As the Starks prepare to fight, Davos loses something dear. Ramsay plays a game. Daenerys faces a choice.</desc>
@@ -3346,7 +3346,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS06E10.vod">
+  <programme start="20230620000000"  channel="GoTS06E10.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">The Winds of Winter</sub-title>
     <desc lang="en">Tyrion counsels Daenerys on the upcoming campaign. Jon and Sansa discuss their future. Trials begin in King's Landing.</desc>
@@ -3372,7 +3372,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS07E01.vod">
+  <programme start="20230620000000"  channel="GoTS07E01.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">Dragonstone</sub-title>
     <desc lang="en">Jon organizes the defense of the North. Cersei tries to even the odds. Daenerys comes home.</desc>
@@ -3398,7 +3398,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS07E02.vod">
+  <programme start="20230620000000"  channel="GoTS07E02.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">Stormborn</sub-title>
     <desc lang="en">Daenerys receives an unexpected visitor. Jon faces a revolt. Tyrion plans the conquest of Westeros.</desc>
@@ -3423,7 +3423,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS07E03.vod">
+  <programme start="20230620000000"  channel="GoTS07E03.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">The Queen's Justice</sub-title>
     <desc lang="en">Daenerys holds court. Tyrion backchannels. Cersei returns a gift. Jaime learns from his mistakes.</desc>
@@ -3449,7 +3449,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS07E04.vod">
+  <programme start="20230620000000"  channel="GoTS07E04.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">The Spoils of War</sub-title>
     <desc lang="en">Daenerys fights back. Jaime faces an unexpected situation. Arya comes home.</desc>
@@ -3475,7 +3475,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS07E05.vod">
+  <programme start="20230620000000"  channel="GoTS07E05.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">Eastwatch</sub-title>
     <desc lang="en">Tyrion tries to find a way to make Daenerys listen to reason while Jon plans a dangerous new mission.</desc>
@@ -3501,7 +3501,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS07E06.vod">
+  <programme start="20230620000000"  channel="GoTS07E06.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">Beyond the Wall</sub-title>
     <desc lang="en">Jon and his team go beyond the wall to capture a wight. Daenerys has to make a tough decision.</desc>
@@ -3527,7 +3527,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS07E07.vod">
+  <programme start="20230620000000"  channel="GoTS07E07.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">The Dragon and the Wolf</sub-title>
     <desc lang="en">A meeting is held in King's Landing. Problems arise in the North.</desc>
@@ -3553,7 +3553,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS08E01.vod">
+  <programme start="20230620000000"  channel="GoTS08E01.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">Winterfell</sub-title>
     <desc lang="en">Arriving at Winterfell, Jon and Daenerys struggle to unite a divided North. Jon Snow gets some big news.</desc>
@@ -3578,7 +3578,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS08E02.vod">
+  <programme start="20230620000000"  channel="GoTS08E02.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">A Knight of the Seven Kingdoms</sub-title>
     <desc lang="en">The battle at Winterfell is approaching. Jaime is confronted with the consequences of the past. A tense interaction between Sansa and Daenerys follows.</desc>
@@ -3603,7 +3603,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS08E03.vod">
+  <programme start="20230620000000"  channel="GoTS08E03.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">The Long Night</sub-title>
     <desc lang="en">The Night King and his army have arrived at Winterfell and the great battle begins. Arya looks to prove her worth as a fighter.</desc>
@@ -3629,7 +3629,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS08E04.vod">
+  <programme start="20230620000000"  channel="GoTS08E04.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">The Last of the Starks</sub-title>
     <desc lang="en">In the wake of a costly victory, Jon and Daenerys look to the south as Tyrion eyes a compromise that could save countless lives.</desc>
@@ -3655,7 +3655,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS08E05.vod">
+  <programme start="20230620000000"  channel="GoTS08E05.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">The Bells</sub-title>
     <desc lang="en">Daenerys brings her forces to King's Landing.</desc>
@@ -3681,7 +3681,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="GoTS08E06.vod">
+  <programme start="20230620000000"  channel="GoTS08E06.vod">
     <title lang="en">Game of Thrones</title>
     <sub-title lang="en">The Iron Throne</sub-title>
     <desc lang="en">In the aftermath of the devastating attack on King's Landing, Daenerys must face the survivors.</desc>
@@ -3708,7 +3708,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="The_Freshman.vod">
+  <programme start="20230620000000"  channel="The_Freshman.vod">
     <title lang="en">The Freshman</title>
     <desc lang="en">A freshman film student earns money by running unusual errands for a mob boss (who looks a lot like Marlon Brando in &quot;The Godfather&quot;) that include babysitting a komodo dragon. (repeat).</desc>
     <credits>
@@ -3730,7 +3730,7 @@
       <value>7.8/10</value>
     </star-rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="Boyhood.vod">
+  <programme start="20230620000000"  channel="Boyhood.vod">
     <title lang="en">Boyhood</title>
     <desc lang="en">The film tells a story of a divorced couple trying to raise their young son. The story follows the boy for twelve years, from first grade at age 6 through 12th grade at age 17-18, and examines his relationship with his parents as he grows.</desc>
     <credits>
@@ -3750,7 +3750,7 @@
     <category lang="en">Family</category>
     <icon src="https://raw.githubusercontent.com/fraudiay79/movies/main/boyhood.png" />
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="Black_Snake_Moan.vod">
+  <programme start="20230620000000"  channel="Black_Snake_Moan.vod">
     <title lang="en">Black Snake Moan</title>
     <desc lang="en">A God-fearing bluesman takes to a wild young woman who, as a victim of childhood sexual abuse, looks everywhere for love, never quite finding it.</desc>
     <credits>
@@ -3775,7 +3775,7 @@
       <value>5.2/10</value>
     </star-rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="Defiance.vod">
+  <programme start="20230620000000"  channel="Defiance.vod">
     <title lang="en">Defiance</title>
     <desc lang="en">Jewish brothers in German-occupied Eastern Europe escape into a Belorussian forest, where they join Russian resistance fighters, and endeavor to build a village, in order to protect themselves and about one thousand Jewish non-combatants.</desc>
     <credits>
@@ -3797,7 +3797,7 @@
       <value>5.8/10</value>
     </star-rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="Dazed_and_Confused.vod">
+  <programme start="20230620000000"  channel="Dazed_and_Confused.vod">
     <title lang="en">Dazed and Confused</title>
     <desc lang="en">A group of friends and their siblings each have different experiences on the last day of school in 1976, all culminating in a party in the woods.</desc>
     <credits>
@@ -3818,7 +3818,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="Carrie.vod">
+  <programme start="20230620000000"  channel="Carrie.vod">
     <title lang="en">Carrie</title>
     <desc lang="en">A shy teenager, dominated by a religiously fanatic mother, suffers at the hands of high-school bullies, whose mean pranks rile the teen into discovering she has telekinetic powers, which she uses to take ultimate revenge at the prom.</desc>
     <credits>
@@ -3846,7 +3846,7 @@
       <value>8.6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="Zodiac.vod">
+  <programme start="20230620000000"  channel="Zodiac.vod">
     <title lang="en">Zodiac</title>
     <desc lang="en">Mesmerizing fact-based thriller about the search for the elusive mass murderer known as the Zodiac Killer, who terrorized the San Francisco Bay Area for a number of years in the 1970s. Jake Gyllenhaal plays newspaper political cartoonist Robert Graysmith, upon whose book the script is based. Mark Ruffalo plays Insp. Dave Toschi, who was the inspiration for the title characters in Steve McQueen&apos;s &quot;Bullitt&quot; and Clint Eastwood&apos;s &quot;Dirty Harry.&quot; Robert Downey Jr. Directed by David Fincher. (repeat).</desc>
     <credits>
@@ -3874,7 +3874,7 @@
       <value>7.9/10</value>
     </star-rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="Zombieland.vod">
+  <programme start="20230620000000"  channel="Zombieland.vod">
     <title lang="en">Zombieland</title>
     <desc lang="en">A shy student trying to reach his family in Ohio, a gun-toting bruiser in search of the last Twinkie and a pair of sisters striving to get to an amusement park join forces in a trek across a zombie-filled America.</desc>
     <credits>
@@ -3899,7 +3899,7 @@
       <value>7.9/10</value>
     </star-rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="Gods_and_Monsters.vod">
+  <programme start="20230620000000"  channel="Gods_and_Monsters.vod">
     <title lang="en">Gods and Monsters</title>
     <desc lang="en">It's 1957, and James Whale's heyday as the director of "Frankenstein," "Bride of Frankenstein" and "The Invisible Man" is long behind him. Retired and a semi-recluse, he lives his days accompanied only by images from his past. When his dour housekeeper, Hannah, hires a handsome young gardener, the flamboyant director and simple yard man develop an unlikely friendship, which will change them forever.</desc>
     <credits>
@@ -3923,7 +3923,7 @@
       <value>7.4/10</value>
     </star-rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="Bad_News_Bears_2005.vod">
+  <programme start="20230620000000"  channel="Bad_News_Bears_2005.vod">
     <title lang="en">Bad News Bears</title>
     <desc lang="en">Morris Buttermaker is a burned-out minor league baseball player who loves to drink and can't keep his hands to himself. His long-suffering lawyer arranges for him to manage a local Little League team, and Buttermaker soon finds himself the head of a rag-tag group of misfit players. Through unconventional team-building exercises and his offbeat coaching style, Buttermaker helps his hapless Bears prepare to meet their rivals, the Yankees.</desc>
     <credits>
@@ -3945,7 +3945,7 @@
       <value>6.5/10</value>
     </star-rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="Lady_Bird.vod">
+  <programme start="20230620000000"  channel="Lady_Bird.vod">
     <title lang="en">Lady Bird</title>
     <desc lang="en">In this charming coming-of-age tale set in 2002 Sacramento, an eccentric teenager attending a Catholic high school deals with the pangs of first love and clashes with her mother over her plans for the future.</desc>
     <credits>
@@ -3967,7 +3967,7 @@
       <value>9.3/10</value>
     </star-rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="Drinking_Buddies.vod">
+  <programme start="20230620000000"  channel="Drinking_Buddies.vod">
     <title lang="en">Drinking Buddies</title>
     <desc lang="en">In this intoxicating romantic comedy, two craft-brewery employees fall for each other, despite the fact that they&apos;re both in committed relationships.</desc>
     <credits>
@@ -3988,7 +3988,7 @@
       <value>7.1/10</value>
     </star-rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="The_Lighthouse.vod">
+  <programme start="20230620000000"  channel="The_Lighthouse.vod">
     <title lang="en">The Lighthouse</title>
     <desc lang="en">Two lighthouse keepers try to maintain their sanity while living on a remote and mysterious New England island in the 1890s.</desc>
     <credits>
@@ -4011,7 +4011,7 @@
       <value>8.3/10</value>
     </star-rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="Fargo.vod">
+  <programme start="20230620000000"  channel="Fargo.vod">
     <title lang="en">Fargo</title>
     <desc lang="en">Minnesota car salesman Jerry Lundegaard's inept crime falls apart due to his and his henchmen's bungling and the persistent police work of the quite pregnant Marge Gunderson.</desc>
     <credits>
@@ -4037,7 +4037,7 @@
       <value>8.6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="Four_Weddings_and_a_Funeral.vod">
+  <programme start="20230620000000"  channel="Four_Weddings_and_a_Funeral.vod">
     <title lang="en">Four Weddings and a Funeral</title>
     <desc lang="en">A romantic comedy chronicling multiple encounters between a shy British gentleman and an uninhibited American woman, who have their first brief meeting at a wedding and then continue to run into each other at subsequent sets of nuptials and one funeral.</desc>
     <credits>
@@ -4063,7 +4063,7 @@
       <value>8.1/10</value>
     </star-rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="My_Girl.vod">
+  <programme start="20230620000000"  channel="My_Girl.vod">
     <title lang="en">My Girl</title>
     <desc lang="en">A girl grieving the death of her mother befriends a boy who suffers from allergies and helps her out of her shell. Meanwhile, her undertaker father begins a relationship with a make-up artist who comes to work for him. (repeat).</desc>
     <credits>
@@ -4090,7 +4090,7 @@
       <value>5.6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="My_Left_Foot.vod">
+  <programme start="20230620000000"  channel="My_Left_Foot.vod">
     <title lang="en">My Left Foot</title>
     <desc lang="en">Christy Brown is born with cerebral palsy to a large, poor Irish family. His mother, Mrs. Brown, recognizes the intelligence and humanity in the lad everyone else regards as a vegetable. Eventually, Christy matures into a cantankerous artist who uses his dexterous left foot to write and paint.</desc>
     <credits>
@@ -4114,7 +4114,7 @@
       <value>9.7/10</value>
     </star-rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="Universal_Soldier.vod">
+  <programme start="20230620000000"  channel="Universal_Soldier.vod">
     <title lang="en">Universal Soldier</title>
     <desc lang="en">Two U.S. soldiers killed in Vietnam—one a decent man and the other a genocidal maniac—are turned into robot assassins by a secret government program. However, the pair resume their deadly rivalry when their memories return in this thrilling action film.</desc>
     <credits>
@@ -4140,7 +4140,7 @@
       <value>3.5/10</value>
     </star-rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="House_of_Sand_and_Fog.vod">
+  <programme start="20230620000000"  channel="House_of_Sand_and_Fog.vod">
     <title lang="en">House of Sand and Fog</title>
     <desc lang="en">An abandoned wife is evicted from her house and starts a tragic conflict with her house's new owners.</desc>
     <credits>
@@ -4165,7 +4165,7 @@
       <value>7.1/10</value>
     </star-rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="Marathon_Man.vod">
+  <programme start="20230620000000"  channel="Marathon_Man.vod">
     <title lang="en">Marathon Man</title>
     <desc lang="en">A graduate student is thrust into a violent encounter with a Nazi war criminal in NYC. In an effort to locate a cache of missing gems, the former Nazi dentist tries to extract information from the student by performing sadistic &quot;oral surgery&quot; on him. (repeat).</desc>
     <credits>
@@ -4190,7 +4190,7 @@
       <value>6.4/10</value>
     </star-rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="The_Manchurian_Candidate_2004.vod">
+  <programme start="20230620000000"  channel="The_Manchurian_Candidate_2004.vod">
     <title lang="en">The Manchurian Candidate</title>
     <desc lang="en">Denzel Washington and Meryl Streep star in Jonathan Demme&apos;s absorbing remake of the 1962 political thriller. Washington plays a Gulf War vet troubled by nightmares about his time in Kuwait. Liev Schreiber is excellent as a soldier who served under him before returning to the States, where he has embarked on a promising political career. Directors Roger Corman and Sidney Lumet have cameos. Tina Sinatra, whose father Frank starred in the original, co-produced. (repeat).</desc>
     <credits>
@@ -4217,7 +4217,7 @@
       <value>7.6/10</value>
     </star-rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="Major_League.vod">
+  <programme start="20230620000000"  channel="Major_League.vod">
     <title lang="en">Major League</title>
     <desc lang="en">Misfits try to lift the Cleveland Indians out of a 34-year slump.</desc>
     <credits>
@@ -4242,7 +4242,7 @@
       <value>6.2/10</value>
     </star-rating>
   </programme>
-  <programme start="20230620000000" stop="20230630000000" channel="Malena.vod">
+  <programme start="20230620000000"  channel="Malena.vod">
     <title lang="en">Malèna</title>
     <desc lang="en">Malèna is about the peril of a beauty through the eyes of a 12 year old kid named Renato. He experiences three things on the same day, beginning of war, getting a bike and sees the arrival of Malèna in town. Through his eyes, we see the curse of beauty and loneliness of Malena, whose husband is presumed to be dead, and through his soul we see his love for her.</desc>
     <credits>
