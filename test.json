@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Gladiator",
+    "category": "🄶 G",
+    "info": {
+      "poster": "https://raw.githubusercontent.com/fraudiay79/movies/main/gladiator.png",
+	  "plot": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+	  "cast": [
+                "Russell Crowe",
+                "Joaquin Phoenix",
+				"Connie Nielsen",
+				"Richard Harris",
+				"Djimon Hounsou"
+              ]
+	  "director": [ "Ridley Scott" ],
+      "rating": "8.8",
+      "genre": [
+        "drama",
+        "action &amp; adventure"
+	  "year": 2000,
+      ]
+    },
+    "video": "https://archive.org/download/01627393993/Gladiator.2000.EXTENDED.1080p.BluRay.x265-RARBG.ia.mp4"
+  },
+  {
+    "name": "Firefly",
+    "category": "🄵 Firefly",
+    "info": {
+      "genre": [
+        "drama",
+        "crime",
+		"thriller"
+      ]
+    },
+    "seasons": [
+      {
+        "season": 1,
+        "info": {
+          "genre": [
+            "drama",
+            "crime",
+		    "thriller"
+          ]
+        },
+        "episodes": [
+          {
+            "episode": 1,
+            "name": "Serenity",
+            "info": {
+              "poster": "https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FuNpt7V0a94xlgp7sdgUJK9GOOSe.jpg",
+			  "plot": "Malcolm Reynolds is a veteran and the captain of Serenity. He and his crew are smuggling goods, but they need to pick up some passengers for extra money. However, not all the passengers are what they seem.",
+              "cast": [
+                "Nathan Fillion",
+                "Gina Torres",
+				"Alan Tudyk",
+				"Morena Baccarin",
+				"Adam Baldwin",
+				"Jewel Staite",
+				"Sean Maher",
+				"Summer Glau",
+				"Ron Glass"
+              ]
+			  "director": [ "Joss Whedon" ],
+			  "writer": [ "Joss Whedon" ]
+            },
+            "video": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2498169.m3u8"
+          }
+        ]
+      }
+    ]
+  }
+]
