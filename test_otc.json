@@ -1,7 +1,7 @@
 [
   {
     "name": "Gladiator",
-    "category": "Action",
+    "category": "🄶",
     "info": {
       "poster": "https://raw.githubusercontent.com/fraudiay79/movies/main/gladiator.png",
 	  "plot": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
@@ -14,22 +14,34 @@
               ],
 	  "director": [ "Ridley Scott" ],
       "rating": "8.8",
-      "year": 2000,
+	  "year": 2000,
       "genre": [
         "drama",
-        "action"
+        "action &amp; adventure"
       ]
     },
     "video": "https://archive.org/download/01627393993/Gladiator.2000.EXTENDED.1080p.BluRay.x265-RARBG.ia.mp4"
   },
   {
     "name": "Firefly",
-    "category": "Firefly",
+    "category": "🄵 Firefly",
     "info": {
+	  "cast": [
+                "Nathan Fillion",
+                "Gina Torres",
+				"Alan Tudyk",
+				"Morena Baccarin",
+				"Adam Baldwin",
+				"Jewel Staite",
+				"Sean Maher",
+				"Summer Glau",
+				"Ron Glass"
+              ],
+	  "year": 2002,
       "genre": [
         "drama",
-        "crime",
-		"thriller"
+        "action &amp; adventure",
+		"sci-Fi &amp; fantasy"
       ]
     },
     "seasons": [
@@ -39,7 +51,7 @@
           "genre": [
             "drama",
             "crime",
-            "thriller"
+		    "thriller"
           ]
         },
         "episodes": [
@@ -59,11 +71,99 @@
 				"Sean Maher",
 				"Summer Glau",
 				"Ron Glass"
-              ],
+              ]
 			  "director": [ "Joss Whedon" ],
 			  "writer": [ "Joss Whedon" ]
             },
             "video": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2498169.m3u8"
+          }
+		  {
+            "episode": 2,
+            "name": "The Train Job",
+            "info": {
+              "poster": "https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FuNpt7V0a94xlgp7sdgUJK9GOOSe.jpg",
+			  "plot": "The crew of Serenity take on a train heist commissioned by a crime lord. They steal the goods, only to find it is medicine that's desperately needed by the town.",
+              "cast": [
+                "Nathan Fillion",
+                "Gina Torres",
+				"Alan Tudyk",
+				"Morena Baccarin",
+				"Adam Baldwin",
+				"Jewel Staite",
+				"Sean Maher",
+				"Summer Glau",
+				"Ron Glass"
+              ]
+			  "director": [ "Joss Whedon" ],
+			  "writer": [ "Joss Whedon" ]
+            },
+            "video": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2498169.m3u8"
+          }
+		  {
+            "episode": 3,
+            "name": "Bushwhacked",
+            "info": {
+              "poster": "https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FngAXwtCEiyFUYZlIJOMk9g6q7Ep.jpg",
+			  "plot": "Serenity is pulled in by a Tohoku-class cruiser while investigating a spaceship that was attacked by Reavers. Simon and River must hide to prevent capture, while something is wrong with the lone survivor of the attacked spaceship.",
+              "cast": [
+                "Nathan Fillion",
+                "Gina Torres",
+				"Alan Tudyk",
+				"Morena Baccarin",
+				"Adam Baldwin",
+				"Jewel Staite",
+				"Sean Maher",
+				"Summer Glau",
+				"Ron Glass"
+              ]
+			  "director": [ "Tim Minear" ],
+			  "writer": [ "Joss Whedon" ]
+            },
+            "video": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2498152.m3u8"
+          }
+		  {
+            "episode": 4,
+            "name": "Shindig",
+            "info": {
+              "poster": "https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FkHZWQszqkSrDWyFTj08Koh0Ng4I.jpg",
+			  "plot": "Inara attends a formal society dance, only to find Malcolm there as well, attempting to set up a smuggling job. Mal comes to blows with Inara's conceited date and finds himself facing a duel with a renowned swordsman, and only one night to learn how to fence.",
+              "cast": [
+                "Nathan Fillion",
+                "Gina Torres",
+				"Alan Tudyk",
+				"Morena Baccarin",
+				"Adam Baldwin",
+				"Jewel Staite",
+				"Sean Maher",
+				"Summer Glau",
+				"Ron Glass"
+              ]
+			  "director": [ "Vern Gillum" ],
+			  "writer": [ "Joss Whedon" ]
+            },
+            "video": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2498153.m3u8"
+          }
+		  {
+            "episode": 5,
+            "name": "Safe",
+            "info": {
+              "poster": "https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FuNpt7V0a94xlgp7sdgUJK9GOOSe.jpg",
+			  "plot": "Mal must choose which crew members to save when one is gravely wounded and two others are kidnapped. Simon finds an uneasy haven in a remote village, but River's uncanny perceptions jeopardize the Tams' temporary safety.",
+              "cast": [
+                "Nathan Fillion",
+                "Gina Torres",
+				"Alan Tudyk",
+				"Morena Baccarin",
+				"Adam Baldwin",
+				"Jewel Staite",
+				"Sean Maher",
+				"Summer Glau",
+				"Ron Glass"
+              ]
+			  "director": [ "Michael Grossman" ],
+			  "writer": [ "Joss Whedon" ]
+            },
+            "video": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2498154.m3u8"
           }
         ]
       }
