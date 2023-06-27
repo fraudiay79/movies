@@ -17,7 +17,7 @@
 	  "year": 2000,
       "genre": [
         "drama",
-        "action &amp; adventure"
+        "action & adventure"
       ]
     },
     "video": "https://archive.org/download/01627393993/Gladiator.2000.EXTENDED.1080p.BluRay.x265-RARBG.ia.mp4"
@@ -26,6 +26,9 @@
     "name": "Firefly",
     "category": "🄵 Firefly",
     "info": {
+	  "poster": "https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FqSDuLfiU9mYoGKN3m0UgrAxZzVL.jpg",
+	  "bg": "https://www.themoviedb.org/t/p/original/iP9Xjlc8KRmXE0kVMTaJRaN0umh.jpg",
+	  "plot": "Five hundred years in the future, a renegade crew aboard a small spacecraft tries to survive as they travel the unknown parts of the galaxy and evade warring factions as well as authority agents out to get them.",
 	  "cast": [
                 "Nathan Fillion",
                 "Gina Torres",
@@ -37,11 +40,13 @@
 				"Summer Glau",
 				"Ron Glass"
               ],
+      "rating": "8.3",
 	  "year": 2002,
+	  "trailer": "oBZrZij2-g8",
       "genre": [
         "drama",
-        "action &amp; adventure",
-		"sci-Fi &amp; fantasy"
+        "action & adventure",
+		"sci-Fi & fantasy"
       ]
     },
     "seasons": [
@@ -72,8 +77,7 @@
 				"Summer Glau",
 				"Ron Glass"
               ]
-			  "director": [ "Joss Whedon" ],
-			  "writer": [ "Joss Whedon" ]
+			  "director": [ "Joss Whedon" ]
             },
             "video": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2498169.m3u8"
           }
@@ -94,8 +98,7 @@
 				"Summer Glau",
 				"Ron Glass"
               ]
-			  "director": [ "Joss Whedon" ],
-			  "writer": [ "Joss Whedon" ]
+			  "director": [ "Joss Whedon" ]
             },
             "video": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2498169.m3u8"
           }
@@ -116,8 +119,7 @@
 				"Summer Glau",
 				"Ron Glass"
               ]
-			  "director": [ "Tim Minear" ],
-			  "writer": [ "Joss Whedon" ]
+			  "director": [ "Tim Minear" ]
             },
             "video": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2498152.m3u8"
           }
@@ -138,8 +140,7 @@
 				"Summer Glau",
 				"Ron Glass"
               ]
-			  "director": [ "Vern Gillum" ],
-			  "writer": [ "Joss Whedon" ]
+			  "director": [ "Vern Gillum" ]
             },
             "video": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2498153.m3u8"
           }
