@@ -3,7 +3,8 @@
     "name": "Gladiator",
     "category": "🄶",
     "info": {
-      "poster": "https://raw.githubusercontent.com/fraudiay79/movies/main/gladiator.png",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
+	  "bg": "https://www.themoviedb.org/t/p/original/jWZ335VzeTICqEDF9k23GJFn2AG.jpg",
 	  "plot": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
 	  "cast": [
                 "Russell Crowe",
@@ -26,7 +27,8 @@
     "name": "The Godfather",
     "category": "🄶",
     "info": {
-      "poster": "https://raw.githubusercontent.com/fraudiay79/movies/main/godfather.png",
+      "poster": "https://www.themoviedb.org/t/p/original/hMTncCsOwZZCNOo5SBhE1wQKpid.jpg",
+	  "bg": "https://www.themoviedb.org/t/p/original/tmU7GeKVybMWFButWEGl2M4GeiP.jpg",
 	  "plot": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
 	  "cast": [
                 "Marlon Brando",
@@ -49,7 +51,8 @@
     "name": "The Godfather: Part II",
     "category": "🄶",
     "info": {
-      "poster": "https://raw.githubusercontent.com/fraudiay79/movies/main/godfather_2.png",
+      "poster": "https://www.themoviedb.org/t/p/original/5ZSfJ9aleg2rGhVWp0Dcqv38Nr5.jpg",
+	  "bg": "https://www.themoviedb.org/t/p/original/kGzFbGhp99zva6oZODW5atUtnqi.jpg",
 	  "plot": "The continuing saga of the Corleone crime family tells the story of a young Vito Corleone growing up in Sicily and in 1910s New York; and follows Michael Corleone in the 1950s as he attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
 	  "cast": [
                 "Al Pacino",
@@ -58,10 +61,34 @@
 				"Robert Duvall",
 				"Diane Keaton"
               ],
-	  "director": [ "Francis Ford Coppola" ],
-	  "writer": [ "Mario Puzo" ],
+	  "director": [ "Francis Ford Coppola" ]
       "rating": "9",
 	  "year": 1974,
+      "genre": [
+        "drama",
+        "crime"
+      ]
+    },
+    "video": "https://rouf.magnewscontent.org/_v10/de02cc10d9982e2df5a73a9da36b4ac098c27d622ba2d95d45afb2329b343549d57423b8c0a6c3cbd082cd69b55a5f7f29538da6286866185c05f112dd89b9afc87dfbde1ff1e572637f073bad4796e9ee4b07aaf0ead8838eed7413854f95791aef9bea4bb51b938e23d59de4f64a995318985f45cb735bbcb5d6db0c025c51/playlist.m3u8c6059f0ceed095afe3ab56240089adca1155c53eb81ff68f0225a8d4b62f58f1e27674221b4b35a7f38d011a29a3ec2ac571e4f47cd1ec56dfd34089cd7c17f2c81144f1e8274378ae/playlist.m3u8"
+  },
+  {
+    "name": "The Godfather: Part III",
+    "category": "🄶",
+    "info": {
+      "poster": "https://www.themoviedb.org/t/p/original/hOlI8nLlVcH6JKrrMGGqYCQewWz.jpg",
+	  "bg": "https://www.themoviedb.org/t/p/original/zNnjHLDtV8Ti3aworltaeaLMov4.jpg",
+	  "plot": "Follows Michael Corleone, now in his 60s, as he seeks to free his family from crime and find a suitable successor to his empire.",
+	  "cast": [
+                "Al Pacino",
+				"Diane Keaton",
+				"Talia Shire",
+				"Andy García",
+				"Eli Wallach"
+              ],
+	  "director": [ "Francis Ford Coppola" ]
+      "rating": "7.4",
+	  "year": 1990,
+	  "trailer": "oBZrZij2-g8",
       "genre": [
         "drama",
         "crime"
@@ -73,7 +100,7 @@
     "name": "Firefly",
     "category": "🄵 Firefly",
     "info": {
-	  "poster": "https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FqSDuLfiU9mYoGKN3m0UgrAxZzVL.jpg",
+	  "poster": "https://www.themoviedb.org/t/p/original/vZcKsy4sGAvWMVqLluwYuoi11Kj.jpg",
 	  "bg": "https://www.themoviedb.org/t/p/original/iP9Xjlc8KRmXE0kVMTaJRaN0umh.jpg",
 	  "plot": "Five hundred years in the future, a renegade crew aboard a small spacecraft tries to survive as they travel the unknown parts of the galaxy and evade warring factions as well as authority agents out to get them.",
 	  "cast": [
