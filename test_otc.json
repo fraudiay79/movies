@@ -11,8 +11,8 @@
 				"Connie Nielsen",
 				"Richard Harris",
 				"Djimon Hounsou"
-              ]
-	  "director": [ "Ridley Scott" ]
+              ],
+	  "director": [ "Ridley Scott" ],
       "rating": "8.8",
       "genre": [
         "drama",
@@ -59,7 +59,7 @@
 				"Sean Maher",
 				"Summer Glau",
 				"Ron Glass"
-              ]
+              ],
 			  "director": [ "Joss Whedon" ],
 			  "writer": [ "Joss Whedon" ]
             },
