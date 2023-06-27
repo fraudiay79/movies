@@ -24,6 +24,31 @@
     "video": "https://archive.org/download/01627393993/Gladiator.2000.EXTENDED.1080p.BluRay.x265-RARBG.ia.mp4"
   },
   {
+    "name": "The Godfather",
+    "category": "🄶",
+    "info": {
+      "poster": "https://www.themoviedb.org/t/p/original/v3KCBeX0CBlZnHZndimm7taYqwo.jpg",
+	  "bg": "https://www.themoviedb.org/t/p/original/kGzFbGhp99zva6oZODW5atUtnqi.jpg",
+	  "plot": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+	  "cast": [
+                "Marlon Brando",
+				"Al Pacino",
+				"James Caan",
+				"Robert Duvall",
+				"Diane Keaton",
+				"Talia Shire"
+              ],
+	  "director": [ "Francis Ford Coppola" ],
+      "rating": "10",
+	  "year": 1972,
+      "genre": [
+        "drama",
+        "crime"
+      ]
+    },
+    "video": "https://eno.dokicloud.one/_v10/179d380d96d40b6ab9edfc117b1ca6f6ee4b829541ad36949d1fe65686add06b03775bc8c8c5b244bf109452e7b7f302c21e6dc1ca76475249192371823855873268709bb4580399965f6e1e41c9b959792d60dd7988a7e7947e8586f9ffac8bbe77914f37d4dbdbc18ccdeaf2b3bccc3c550d82081b488d49a5d6b7413ea45e/playlist.m3u8"
+  },
+  {
     "name": "The Godfather: Part II",
     "category": "🄶",
     "info": {
@@ -45,7 +70,7 @@
         "crime"
       ]
     },
-    "video": "https://eno.dokicloud.one/_v10/179d380d96d40b6ab9edfc117b1ca6f6ee4b829541ad36949d1fe65686add06b03775bc8c8c5b244bf109452e7b7f302c21e6dc1ca76475249192371823855873268709bb4580399965f6e1e41c9b959792d60dd7988a7e7947e8586f9ffac8bbe77914f37d4dbdbc18ccdeaf2b3bccc3c550d82081b488d49a5d6b7413ea45e/playlist.m3u8"
+    "video": "https://rouf.magnewscontent.org/_v10/de02cc10d9982e2df5a73a9da36b4ac098c27d622ba2d95d45afb2329b343549d57423b8c0a6c3cbd082cd69b55a5f7f29538da6286866185c05f112dd89b9afc87dfbde1ff1e572637f073bad4796e9ee4b07aaf0ead8838eed7413854f95791aef9bea4bb51b938e23d59de4f64a995318985f45cb735bbcb5d6db0c025c51/playlist.m3u8"
   },
   {
     "name": "The Godfather: Part III",
@@ -69,7 +94,7 @@
         "crime"
       ]
     },
-    "video": "https://eno.dokicloud.one/_v10/179d380d96d40b6ab9edfc117b1ca6f6ee4b829541ad36949d1fe65686add06b03775bc8c8c5b244bf109452e7b7f302c21e6dc1ca76475249192371823855873268709bb4580399965f6e1e41c9b959792d60dd7988a7e7947e8586f9ffac8bbe77914f37d4dbdbc18ccdeaf2b3bccc3c550d82081b488d49a5d6b7413ea45e/playlist.m3u8"
+    "video": "https://eno.dokicloud.one/_v10/cd6a6a1eebc52c9e9d6271266550f95c09918fd117c4bfa68059825d81af4b3d862d49c76aa189ed1251f1104bdbf8acf263f6784c2a0d1f2f27846a26660157f36ca97a6ee9645533f2286a63cae0f15a631258a41cc4e93560753cac084956d4968f5d876d79da84e79c2b56bf9aff91e7083cba68f98baae79b95a78bff82/playlist.m3u8"
   },
   {
     "name": "Firefly",
@@ -118,7 +143,7 @@
             "episode": 2,
             "name": "The Train Job",
             "info": {
-              "poster": "https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FuNpt7V0a94xlgp7sdgUJK9GOOSe.jpg",
+              "poster": "https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fw4yFzJkAiGjuDQuFKLOocjrH1eH.jpg",
 			  "plot": "The crew of Serenity take on a train heist commissioned by a crime lord. They steal the goods, only to find it is medicine that's desperately needed by the town.",
               "director": [ "Joss Whedon" ],
 			  "backdrop": "https://www.themoviedb.org/t/p/original/leEGz2TzhnfzEoPJJlf0ZWbozBR.jpg"
@@ -151,12 +176,111 @@
             "episode": 5,
             "name": "Safe",
             "info": {
-              "poster": "https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FuNpt7V0a94xlgp7sdgUJK9GOOSe.jpg",
+              "poster": "https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FqXzz9JGzmsb7pExom73OXfaOlbF.jpg",
 			  "plot": "Mal must choose which crew members to save when one is gravely wounded and two others are kidnapped. Simon finds an uneasy haven in a remote village, but River's uncanny perceptions jeopardize the Tams' temporary safety.",
               "director": [ "Michael Grossman" ],
 			  "backdrop": "https://www.themoviedb.org/t/p/original/leEGz2TzhnfzEoPJJlf0ZWbozBR.jpg"
             },
             "video": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2498154.m3u8"
+          },
+		  {
+            "episode": 6,
+            "name": "Our Mrs. Reynolds",
+            "info": {
+              "poster": "https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FfxsOgCUZmyeVBAenE9aH97PhZL7.jpg",
+			  "plot": "As an unexpected reward for an unpaid job, Mal finds himself married to a naïve, subservient young woman named Saffron. The crew are amused at his discomfort and Book lectures him on propriety, but things aren't as smoothly straightforward as they thought them to be.",
+              "director": [ "Vondie Curtis-Hall" ],
+			  "backdrop": "https://www.themoviedb.org/t/p/original/leEGz2TzhnfzEoPJJlf0ZWbozBR.jpg"
+            },
+            "video": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2498155.m3u8"
+          },
+		  {
+            "episode": 7,
+            "name": "Jaynestown",
+            "info": {
+              "poster": "https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FgKvmsSeXlbA3J5iFp0Yk4hqmrbz.jpg",
+			  "plot": "Returning to a planet where he ran into some serious trouble years ago, Jayne discovers that he's become a local folk legend. Mal decides to use this entertaining distraction to complete a job, but some unfinished business may derail his plans.",
+              "director": [ "Marita Grabiak" ],
+			  "backdrop": "https://www.themoviedb.org/t/p/original/leEGz2TzhnfzEoPJJlf0ZWbozBR.jpg"
+            },
+            "video": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2498156.m3u8"
+          },
+		  {
+            "episode": 8,
+            "name": "Out of Gas",
+            "info": {
+              "poster": "https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FeOP0DNWzFHR7nPhf1SbK2XZOiXJ.jpg",
+			  "plot": "After Serenity suffers a catastrophe that leaves her crew with only hours of oxygen, flashbacks show how Mal and Zoë acquired Serenity and assembled their motley band.",
+              "director": [ "David Solomon" ],
+			  "backdrop": "https://www.themoviedb.org/t/p/original/leEGz2TzhnfzEoPJJlf0ZWbozBR.jpg"
+            },
+            "video": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2498157.m3u8"
+          },
+		  {
+            "episode": 9,
+            "name": "Ariel",
+            "info": {
+              "poster": "https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FgSlW5xoTEAizKMZL5w8jhSnBJUV.jpg",
+			  "plot": "Hard up for cash, Serenity takes on a job from Simon: help him get a thorough diagnostic of River in return for the opportunity to loot the vast medical stores of an Alliance hospital on central world Ariel. But River's pursuers are hot on their trail, and they receive some unexpected inside help.",
+              "director": [ "Allan Kroeker" ],
+			  "backdrop": "https://www.themoviedb.org/t/p/original/leEGz2TzhnfzEoPJJlf0ZWbozBR.jpg"
+            },
+            "video": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2498158.m3u8"
+          },
+		  {
+            "episode": 10,
+            "name": "War Stories",
+            "info": {
+              "poster": "https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FkIxWpnDsWwTOR3dAFnTAAzNsys.jpg",
+			  "plot": "Angered at Zoë's unshakable war connection to Mal, Wash demands a shot at a field assignment. Unfortunately, crime lord Niska chooses this moment to exact a brutal vengeance for Mal's failure to complete an earlier job.",
+              "director": [ "James A. Contner" ],
+			  "backdrop": "https://www.themoviedb.org/t/p/original/leEGz2TzhnfzEoPJJlf0ZWbozBR.jpg"
+            },
+            "video": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2498160.m3u8"
+          },
+		  {
+            "episode": 11,
+            "name": "Trash",
+            "info": {
+              "poster": "https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fartworks.thetvdb.com%2Fbanners%2Fepisodes%2F78874%2F298002.jpg",
+			  "plot": "Mal has to make a tough choice in whether he should trust Saffron when she offers the Serenity crew an opportunity to make a lot of money on a risky job.",
+              "director": [ "Vern Gillum" ],
+			  "backdrop": "https://www.themoviedb.org/t/p/original/leEGz2TzhnfzEoPJJlf0ZWbozBR.jpg"
+            },
+            "video": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2498163.m3u8"
+          },
+		  {
+            "episode": 12,
+            "name": "The Message",
+            "info": {
+              "poster": "https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fartworks.thetvdb.com%2Fbanners%2Fepisodes%2F78874%2F298003.jpg",
+			  "plot": "What starts out as a nice day at a space station goes very wrong when Mal and Zoe receive the corpse of their old war buddy in the mail.",
+              "director": [ "Tim Minear" ],
+			  "backdrop": "https://www.themoviedb.org/t/p/original/leEGz2TzhnfzEoPJJlf0ZWbozBR.jpg"
+            },
+            "video": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2498164.m3u8"
+          },
+		  {
+            "episode": 13,
+            "name": "Heart of Gold",
+            "info": {
+              "poster": "https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fartworks.thetvdb.com%2Fbanners%2Fepisodes%2F78874%2F298001.jpg",
+			  "plot": "The Serenity goes to the moon of Deadwood to answer a distress call from Inara’s old friend who runs a brothel.",
+              "director": [ "Thomas J. Wright" ],
+			  "backdrop": "https://www.themoviedb.org/t/p/original/leEGz2TzhnfzEoPJJlf0ZWbozBR.jpg"
+            },
+            "video": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2498161.m3u8"
+          },
+		  {
+            "episode": 14,
+            "name": "Objects in Space",
+            "info": {
+              "poster": "https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FiMlHLWkWaceaOfNVlgZl2ELppBW.jpg",
+			  "plot": "Serenity encounters a ruthlessly professional bounty hunter, Jubal Early, who will stop at nothing to retrieve River. But River, feeling unwelcome on the ship, takes a novel approach to escaping from the long arm of the Alliance.",
+              "director": [ "Joss Whedon" ],
+			  "backdrop": "https://www.themoviedb.org/t/p/original/leEGz2TzhnfzEoPJJlf0ZWbozBR.jpg"
+            },
+            "video": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2498162.m3u8"
           }
         ]
       }
