@@ -14,10 +14,10 @@
               ],
 	  "director": [ "Ridley Scott" ],
       "rating": "8.8",
+      "year": 2000,
       "genre": [
         "drama",
-        "action",
-	  "year": 2000,
+        "action"
       ]
     },
     "video": "https://archive.org/download/01627393993/Gladiator.2000.EXTENDED.1080p.BluRay.x265-RARBG.ia.mp4"
@@ -39,7 +39,7 @@
           "genre": [
             "drama",
             "crime",
-		    "thriller"
+            "thriller"
           ]
         },
         "episodes": [
