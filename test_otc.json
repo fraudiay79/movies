@@ -46,6 +46,30 @@
     "video": "https://eno.dokicloud.one/_v10/179d380d96d40b6ab9edfc117b1ca6f6ee4b829541ad36949d1fe65686add06b03775bc8c8c5b244bf109452e7b7f302c21e6dc1ca76475249192371823855873268709bb4580399965f6e1e41c9b959792d60dd7988a7e7947e8586f9ffac8bbe77914f37d4dbdbc18ccdeaf2b3bccc3c550d82081b488d49a5d6b7413ea45e/playlist.m3u8"
   },
   {
+    "name": "The Godfather: Part II",
+    "category": "🄶",
+    "info": {
+      "poster": "https://raw.githubusercontent.com/fraudiay79/movies/main/godfather_2.png",
+	  "plot": "The continuing saga of the Corleone crime family tells the story of a young Vito Corleone growing up in Sicily and in 1910s New York; and follows Michael Corleone in the 1950s as he attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
+	  "cast": [
+                "Al Pacino",
+				"Robert De Niro",
+				"Talia Shire",
+				"Robert Duvall",
+				"Diane Keaton"
+              ],
+	  "director": [ "Francis Ford Coppola" ],
+	  "writer": [ "Mario Puzo" ],
+      "rating": "9",
+	  "year": 1974,
+      "genre": [
+        "drama",
+        "crime"
+      ]
+    },
+    "video": "https://rouf.magnewscontent.org/_v10/de02cc10d9982e2df5a73a9da36b4ac098c27d622ba2d95d45afb2329b343549d57423b8c0a6c3cbd082cd69b55a5f7f29538da6286866185c05f112dd89b9afc87dfbde1ff1e572637f073bad4796e9ee4b07aaf0ead8838eed7413854f95791aef9bea4bb51b938e23d59de4f64a995318985f45cb735bbcb5d6db0c025c51/playlist.m3u8c6059f0ceed095afe3ab56240089adca1155c53eb81ff68f0225a8d4b62f58f1e27674221b4b35a7f38d011a29a3ec2ac571e4f47cd1ec56dfd34089cd7c17f2c81144f1e8274378ae/playlist.m3u8"
+  },
+  {
     "name": "Firefly",
     "category": "🄵 Firefly",
     "info": {
@@ -87,7 +111,7 @@
 			  
             },
             "video": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2498169.m3u8"
-          },
+          }
 		  {
             "episode": 2,
             "name": "The Train Job",
@@ -97,8 +121,8 @@
               "director": [ "Joss Whedon" ],
 			  "backdrop": "https://www.themoviedb.org/t/p/original/leEGz2TzhnfzEoPJJlf0ZWbozBR.jpg"
             },
-            "video": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2498169.m3u8"
-          },
+            "video": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2498139.m3u8"
+          }
 		  {
             "episode": 3,
             "name": "Bushwhacked",
@@ -109,7 +133,7 @@
 			  "backdrop": "https://www.themoviedb.org/t/p/original/leEGz2TzhnfzEoPJJlf0ZWbozBR.jpg"
             },
             "video": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2498152.m3u8"
-          },
+          }
 		  {
             "episode": 4,
             "name": "Shindig",
@@ -120,7 +144,7 @@
 			  "backdrop": "https://www.themoviedb.org/t/p/original/leEGz2TzhnfzEoPJJlf0ZWbozBR.jpg"
             },
             "video": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2498153.m3u8"
-          },
+          }
 		  {
             "episode": 5,
             "name": "Safe",
