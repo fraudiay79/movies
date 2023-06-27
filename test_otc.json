@@ -285,5 +285,153 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Game of Thrones",
+    "category": "🄶 Game of Thrones",
+    "info": {
+	  "poster": "https://www.themoviedb.org/t/p/original/fw9hNiJO0U5MUg2XGyCOlTS3jdS.jpg",
+	  "bg": "https://www.themoviedb.org/t/p/original/iP9Xjlc8KRmXE0kVMTaJRaN0umh.jpg",
+	  "plot": "In the mythical continent of Westeros, several powerful families fight for control of the Seven Kingdoms. As conflict erupts in the kingdoms of men, an ancient enemy rises once again to threaten them all. Meanwhile, the last heirs of a recently usurped dynasty plot to take back their homeland from across the Narrow Sea.",
+      "rating": "8.4",
+	  "genre": [
+        "drama",
+        "action & adventure",
+		"sci-Fi & fantasy"
+      ]
+    },
+    "seasons": [
+      {
+        "season": 1,
+		"info": {
+	    "poster": "https://www.themoviedb.org/t/p/original/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+	    "bg": "https://www.themoviedb.org/t/p/original/6LWy0jvMpmjoS9fojNgHIKoWL05.jpg",
+	    "plot": "Trouble is brewing in the Seven Kingdoms of Westeros. For the driven inhabitants of this visionary world, control of Westeros' Iron Throne holds the lure of great power. But in a land where the seasons can last a lifetime, winter is coming...and beyond the Great Wall that protects them, an ancient evil has returned. In Season One, the story centers on three primary areas: the Stark and the Lannister families, whose designs on controlling the throne threaten a tenuous peace; the dragon princess Daenerys, heir to the former dynasty, who waits just over the Narrow Sea with her malevolent brother Viserys; and the Great Wall--a massive barrier of ice where a forgotten danger is stirring.",
+	    "cast": [
+                "Sean Bean",
+                "Mark Addy",
+				"Peter Dinklage",
+				"Nikolaj Coster-Waldau",
+				"Lena Headey",
+				"Emilia Clarke",
+				"Kit Harington"
+              ],
+	    "year": 2011,
+	    "trailer": "bjqEWgDVPe0",
+        "episodes": [
+          {
+            "episode": 1,
+            "name": "Winter is Coming",
+            "info": {
+              "poster": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/9hGF3WUkBf7cSjMg0cdMDHJkByd.jpg",
+			  "plot": "Jon Arryn, the Hand of the King, is dead. King Robert Baratheon plans to ask his oldest friend, Eddard Stark, to take Jon's place. Across the sea, Viserys Targaryen plans to wed his sister to a nomadic warlord in exchange for an army.",
+              "director": [ "Timothy Van Patten" ],
+			  "backdrop": "https://www.themoviedb.org/t/p/original/6LWy0jvMpmjoS9fojNgHIKoWL05.jpg"
+			  
+            },
+            "video": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2498169.m3u8"
+          },
+		  {
+            "episode": 2,
+            "name": "The Kingsroad",
+            "info": {
+              "poster": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/1kdHRLs05ia0E9X3Hi5Ts5Sc1jk.jpg",
+			  "plot": "While Bran recovers from his fall, Ned takes only his daughters to Kings Landing. Jon Snow goes with his uncle Benjen to The Wall. Tyrion joins them..",
+              "director": [ "Timothy Van Patten" ],
+			  "backdrop": "https://www.themoviedb.org/t/p/original/6LWy0jvMpmjoS9fojNgHIKoWL05.jpg"
+            },
+            "video": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2498139.m3u8"
+          },
+		  {
+            "episode": 3,
+            "name": "Lord Snow",
+            "info": {
+              "poster": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/8HjOlb4slc1xusMgOtoNpxuTgSI.jpg",
+			  "plot": "Lord Stark and his daughters arrive at King's Landing to discover the intrigues of the king's realm.",
+              "director": [ "Brian Kirk" ],
+			  "backdrop": "https://www.themoviedb.org/t/p/original/6LWy0jvMpmjoS9fojNgHIKoWL05.jpg"
+            },
+            "video": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2498152.m3u8"
+          },
+		  {
+            "episode": 4,
+            "name": "Cripples, Bastards, and Broken Things",
+            "info": {
+              "poster": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/Ai2UPMWv38xGjOgNBuA1o8w8dUI.jpg",
+			  "plot": "Eddard investigates Jon Arryn's murder. Jon befriends Samwell Tarly, a coward who has come to join the Night's Watch.",
+              "director": [ "Brian Kirk" ],
+			  "backdrop": "https://www.themoviedb.org/t/p/original/6LWy0jvMpmjoS9fojNgHIKoWL05.jpg"
+            },
+            "video": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2498153.m3u8"
+          },
+		  {
+            "episode": 5,
+            "name": "The Wolf and the Lion",
+            "info": {
+              "poster": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/eeMxrTGa4Tin8oyZx1fOfSRuMdz.jpg",
+			  "plot": "Catelyn has captured Tyrion and plans to bring him to her sister, Lysa Arryn, at The Vale, to be tried for his, supposed, crimes against Bran. Robert plans to have Daenerys killed, but Eddard refuses to be a part of it and quits.",
+              "director": [ "Brian Kirk" ],
+			  "backdrop": "https://www.themoviedb.org/t/p/original/6LWy0jvMpmjoS9fojNgHIKoWL05.jpg"
+            },
+            "video": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2498154.m3u8"
+          },
+		  {
+            "episode": 6,
+            "name": "A Golden Crown",
+            "info": {
+              "poster": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/6FcfWGFlDyWZ2JvQi8uvkxbDx1z.jpg",
+			  "plot": "While recovering from his battle with Jamie, Eddard is forced to run the kingdom while Robert goes hunting. Tyrion demands a trial by combat for his freedom. Viserys is losing his patience with Drogo.",
+              "director": [ "Daniel Minahan" ],
+			  "backdrop": "https://www.themoviedb.org/t/p/original/6LWy0jvMpmjoS9fojNgHIKoWL05.jpg"
+            },
+            "video": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2498155.m3u8"
+          },
+		  {
+            "episode": 7,
+            "name": "You Win or You Die",
+            "info": {
+              "poster": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/dwrpT3W8sT9VhGf8zhVb3npfMzi.jpg",
+			  "plot": "Robert has been injured while hunting and is dying. Jon and the others finally take their vows to the Night's Watch. A man, sent by Robert, is captured for trying to poison Daenerys. Furious, Drogo vows to attack the Seven Kingdoms.",
+              "director": [ "Daniel Minahan" ],
+			  "backdrop": "https://www.themoviedb.org/t/p/original/6LWy0jvMpmjoS9fojNgHIKoWL05.jpg"
+            },
+            "video": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2498156.m3u8"
+          },
+		  {
+            "episode": 8,
+            "name": "The Pointy End",
+            "info": {
+              "poster": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/loWNUGR3MtEEcx4NJ4WpEhceKBd.jpg",
+			  "plot": "Eddard and his men are betrayed and captured by the Lannisters. When word reaches Robb, he plans to go to war to rescue them. The White Walkers attack The Wall. Tyrion returns to his father with some new friends.",
+              "director": [ "Daniel Minahan" ],
+			  "backdrop": "https://www.themoviedb.org/t/p/original/6LWy0jvMpmjoS9fojNgHIKoWL05.jpg"
+            },
+            "video": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2498157.m3u8"
+          },
+		  {
+            "episode": 9,
+            "name": "Baelor",
+            "info": {
+              "poster": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/fAmBhmw1pQc6fucrdmnRM5FOpXD.jpg",
+			  "plot": "Robb goes to war against the Lannisters. Jon finds himself struggling on deciding if his place is with Robb or the Night's Watch. Drogo has fallen ill from a fresh battle wound. Daenerys is desperate to save him.",
+              "director": [ "Alan Taylor" ],
+			  "backdrop": "https://www.themoviedb.org/t/p/original/6LWy0jvMpmjoS9fojNgHIKoWL05.jpg"
+            },
+            "video": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2498158.m3u8"
+          },
+		  {
+            "episode": 10,
+            "name": "Fire and Blood",
+            "info": {
+              "poster": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/7GhSiFhXOg81AevNQWrX6DOEL1U.jpg",
+			  "plot": "With Ned dead, Robb vows to get revenge on the Lannisters. Jon must officially decide if his place is with Robb or the Night's Watch. Daenerys says her final goodbye to Drogo.",
+              "director": [ "Alan Taylor" ],
+			  "backdrop": "https://www.themoviedb.org/t/p/original/6LWy0jvMpmjoS9fojNgHIKoWL05.jpg"
+            },
+            "video": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2498160.m3u8"
+          }
+        ]
+      }
+    ]
   }
 ]
