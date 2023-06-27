@@ -61,8 +61,8 @@
 				"Robert Duvall",
 				"Diane Keaton"
               ],
-	  "director": [ "Francis Ford Coppola" ]
-      "rating": "9",
+	  "director": [ "Francis Ford Coppola" ],
+      "rating": "9.0",
 	  "year": 1974,
       "genre": [
         "drama",
@@ -85,7 +85,7 @@
 				"Andy García",
 				"Eli Wallach"
               ],
-	  "director": [ "Francis Ford Coppola" ]
+	  "director": [ "Francis Ford Coppola" ],
       "rating": "7.4",
 	  "year": 1990,
 	  "trailer": "oBZrZij2-g8",
