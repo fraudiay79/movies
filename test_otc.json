@@ -66,18 +66,9 @@
             "info": {
               "poster": "https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FuNpt7V0a94xlgp7sdgUJK9GOOSe.jpg",
 			  "plot": "Malcolm Reynolds is a veteran and the captain of Serenity. He and his crew are smuggling goods, but they need to pick up some passengers for extra money. However, not all the passengers are what they seem.",
-              "cast": [
-                "Nathan Fillion",
-                "Gina Torres",
-				"Alan Tudyk",
-				"Morena Baccarin",
-				"Adam Baldwin",
-				"Jewel Staite",
-				"Sean Maher",
-				"Summer Glau",
-				"Ron Glass"
-              ],
-			  "director": [ "Joss Whedon" ]
+              "director": [ "Joss Whedon" ],
+			  "backdrop": "https://www.themoviedb.org/t/p/original/leEGz2TzhnfzEoPJJlf0ZWbozBR.jpg"
+			  
             },
             "video": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2498169.m3u8"
           }
@@ -87,18 +78,8 @@
             "info": {
               "poster": "https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FuNpt7V0a94xlgp7sdgUJK9GOOSe.jpg",
 			  "plot": "The crew of Serenity take on a train heist commissioned by a crime lord. They steal the goods, only to find it is medicine that's desperately needed by the town.",
-              "cast": [
-                "Nathan Fillion",
-                "Gina Torres",
-				"Alan Tudyk",
-				"Morena Baccarin",
-				"Adam Baldwin",
-				"Jewel Staite",
-				"Sean Maher",
-				"Summer Glau",
-				"Ron Glass"
-              ],
-			  "director": [ "Joss Whedon" ]
+              "director": [ "Joss Whedon" ],
+			  "backdrop": "https://www.themoviedb.org/t/p/original/leEGz2TzhnfzEoPJJlf0ZWbozBR.jpg"
             },
             "video": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2498169.m3u8"
           }
@@ -108,18 +89,8 @@
             "info": {
               "poster": "https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FngAXwtCEiyFUYZlIJOMk9g6q7Ep.jpg",
 			  "plot": "Serenity is pulled in by a Tohoku-class cruiser while investigating a spaceship that was attacked by Reavers. Simon and River must hide to prevent capture, while something is wrong with the lone survivor of the attacked spaceship.",
-              "cast": [
-                "Nathan Fillion",
-                "Gina Torres",
-				"Alan Tudyk",
-				"Morena Baccarin",
-				"Adam Baldwin",
-				"Jewel Staite",
-				"Sean Maher",
-				"Summer Glau",
-				"Ron Glass"
-              ],
-			  "director": [ "Tim Minear" ]
+              "director": [ "Tim Minear" ],
+			  "backdrop": "https://www.themoviedb.org/t/p/original/leEGz2TzhnfzEoPJJlf0ZWbozBR.jpg"
             },
             "video": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2498152.m3u8"
           }
@@ -129,18 +100,8 @@
             "info": {
               "poster": "https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FkHZWQszqkSrDWyFTj08Koh0Ng4I.jpg",
 			  "plot": "Inara attends a formal society dance, only to find Malcolm there as well, attempting to set up a smuggling job. Mal comes to blows with Inara's conceited date and finds himself facing a duel with a renowned swordsman, and only one night to learn how to fence.",
-              "cast": [
-                "Nathan Fillion",
-                "Gina Torres",
-				"Alan Tudyk",
-				"Morena Baccarin",
-				"Adam Baldwin",
-				"Jewel Staite",
-				"Sean Maher",
-				"Summer Glau",
-				"Ron Glass"
-              ],
-			  "director": [ "Vern Gillum" ]
+              "director": [ "Vern Gillum" ],
+			  "backdrop": "https://www.themoviedb.org/t/p/original/leEGz2TzhnfzEoPJJlf0ZWbozBR.jpg"
             },
             "video": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2498153.m3u8"
           }
@@ -150,19 +111,8 @@
             "info": {
               "poster": "https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FuNpt7V0a94xlgp7sdgUJK9GOOSe.jpg",
 			  "plot": "Mal must choose which crew members to save when one is gravely wounded and two others are kidnapped. Simon finds an uneasy haven in a remote village, but River's uncanny perceptions jeopardize the Tams' temporary safety.",
-              "cast": [
-                "Nathan Fillion",
-                "Gina Torres",
-				"Alan Tudyk",
-				"Morena Baccarin",
-				"Adam Baldwin",
-				"Jewel Staite",
-				"Sean Maher",
-				"Summer Glau",
-				"Ron Glass"
-              ],
-			  "director": [ "Michael Grossman" ],
-			  "writer": [ "Joss Whedon" ]
+              "director": [ "Michael Grossman" ],
+			  "backdrop": "https://www.themoviedb.org/t/p/original/leEGz2TzhnfzEoPJJlf0ZWbozBR.jpg"
             },
             "video": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2498154.m3u8"
           }
